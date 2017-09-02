@@ -1,0 +1,102 @@
+{% extends "base.html" %}
+{% block style %}
+    <style>
+        .master_bigfount {
+            text-align: center;
+        }
+
+        .master_bigfount h1 {
+            font-size: 80px;
+            display: inline;
+            color: #A5132A;
+        }
+
+        .master_bigfount span {
+            vertical-align: middle;
+            font-size: 26px;
+            color: #A5132A;
+        }
+
+        .master {
+            padding: 10px;
+            position: relative;
+        }
+
+        .master img {
+            width: 100%;
+        }
+
+        {
+            position: absolute
+        ;
+            top: 228px
+        ;
+            bottom: 10px
+        ;
+            left: 10px
+        ;
+            right: 10px
+        ;
+        }
+    </style>
+{% endblock %}
+{% block center %}
+    <div style="width: 100%; background-image: url('/static/images/about_bg02_02.jpg'); text-align: center;padding: 40px 0">
+        <p style="font-size: 40px; color: white">德稻大师</p>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 master_bigfount">
+                <h1>63<span>&nbsp;&nbsp;个</span></h1>
+                <p>设计、时尚、艺术、商业、动漫、影视等领域</p>
+            </div>
+            <div class="col-lg-4 master_bigfount">
+                <h1>500 <span>&nbsp;&nbsp;位</span></h1>
+                <p>业界专家与学界领袖</p>
+            </div>
+            <div class="col-lg-4 master_bigfount">
+                <h1>3360 <span>&nbsp;&nbsp;+</span></h1>
+                <p>顶级行业奖项获得者</p>
+            </div>
+
+        </div>
+        <div class="row">
+            <div class="col-lg-4">
+                <select style="margin: 20px 0; border: black 1px solid;width: 90%;height: 40px;">
+                    <option value="volvo">Volvo</option>
+                    <option value="saab">Saab</option>
+                    <option value="opel">Opel</option>
+                    <option value="audi">Audi</option>
+                </select>
+            </div>
+            <div class="col-lg-4">
+                <select style="margin: 20px 0; border: black 1px solid;width: 90%;height: 40px;">
+                    <option value="volvo">Volvo</option>
+                    <option value="saab">Saab</option>
+                    <option value="opel">Opel</option>
+                    <option value="audi">Audi</option>
+                </select>
+            </div>
+            <div class="col-lg-4">
+                <select style="margin: 20px 0; border: black 1px solid;width: 90%;height: 40px;">
+                    <option value="volvo">Volvo</option>
+                    <option value="saab">Saab</option>
+                    <option value="opel">Opel</option>
+                    <option value="audi">Audi</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 master">
+                <img src="http://www.detaoma.com/upload/images/2016/08/11/7e85fbf55291477da45caa1f6ff1e300.jpg"></img>
+                <div style="background-color: red"></div>
+            </div>
+            <div class="col-lg-4 master">
+                <img src="http://www.detaoma.com/upload/images/2016/08/11/7e85fbf55291477da45caa1f6ff1e300.jpg"></img>
+            </div>
+            <div class="col-lg-4 master">
+                <img src="http://www.detaoma.com/upload/images/2016/08/11/7e85fbf55291477da45caa1f6ff1e300.jpg"></img>
+            </div>
+        </div>
+    </div>
+{% endblock %}
