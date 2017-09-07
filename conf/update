@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /data/test/detaomedia/;
+git pull;
+chmod +x conf/*;
