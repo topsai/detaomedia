@@ -1,0 +1,214 @@
+﻿/*
+* name: Pad && MiddleScreen StyleSheet
+* version: v1.1.1
+* update: 768 bug
+* date: 2016-03-12
+*/
+
+/* <1024 */
+body { padding-top:0;}
+.pageNav { display:none;}
+.mm-list>li.mobile_show { display:none;}
+.full_body {}
+.full_section { display:block;}
+.pageHeader { position:relative;}
+.pageHeader .wrap { margin-left:2%; margin-right:2%;}
+.mobile_key { display:block; width:40px; height:40px; line-height:40px; text-align:center; background-color:#333; border-radius:5px; position:absolute; right:40px; top:40px;}
+.mobile_key._hide { display:none;}
+.mobile_key .ion { margin:0; display:block; font-size:32px; color:#fff;}
+.animation { opacity:1; transform:translate3d(0px, 0px, 0px); -webkit-transform: translate3d(0,0,0);}
+.pageHeader .search a.close { background-position:0 -106px; height:40px; line-height:40px; top:0;}
+.pageHeader .search .hd{padding-top: 15px;}
+.full_section > .box > .hd { padding-top:30px; padding-bottom:30px;}
+.indexPage .full_section > .box > .hd {padding-top: 30px;}
+.full_section .bd .menus .wrap { padding-left:0; padding-right:0;}
+
+.index_sec1 .text,.full_section > .box > .hd .title { font-size:30px;}
+.full_section > .box > .hd .title { margin-bottom:10px;}
+.full_section > .box > .hd .text { padding:0 8%;}
+.full_body .pageFooter { position:static;}
+/* .n_header { position:fixed;} */
+.a_bg2, .commP, .ep_bg02,.e_bg6 { background-size:auto 100%;}
+.dt_educate { width:82%;}
+.n_section .content { padding:0 17%;}
+
+.about_PinPai .pt { font-size:50px; margin-bottom: 25px;}
+.about_PinPai .pp { font-size:30px;}
+.a_bg4{background-repeat: repeat-y;}
+.yjtj_pic, .yjtj_pic li,.yjtj_pic img { height:auto;width: 100%}
+.yjtj_pic li{width:100%;}
+.inews_scroll li{width:100%;}
+
+.ibanner { height:0; padding-bottom:50%;}
+.ibanner li .text { margin:0; left:5%; font-size:30px;}
+
+.widget-area li { width:33.33%; padding:0; float:left;}
+.widget-area .p { padding:0 10%;}
+
+.hz2_bg02 > .box { display:none;}
+
+.mediaT_list li ._down { opacity:1;}
+.dt_search .dt_form {width:80%;}
+.media_bg ._date { display:none;}
+
+/* .zygj_scroll{height:auto;} */
+/* .zygj_scroll.slide{position:static;} */
+.zygj_scroll .slide_nav{display:none;}
+.full_section.color_01.n_section.ds_bg02 .box{position:static;}
+/* .color_01 > .box > .hd .content2 .title{margin: 0;} */
+
+.index_sec6 .box{position:static;}
+.index_sec6 .inews_scroll {height: auto;}
+.inews_scroll li img{max-width: 100%;}
+.inews_scroll li a { color:#fff;}
+.inews_scroll li a .text { background:url(../img/black.6.png);}
+
+
+.color_01 .content2 .m_detail{margin-top: 8px;}
+.dt_sele_ser .active .sb ._val{width:62%;}
+
+.content2 {max-width: 90%;}
+.activeList {margin: 0 5%;}
+.activeList .rect-79{padding-bottom: 74%;}
+.activeList .info {padding-bottom:1% ;}
+.activeList .info .i {margin-bottom: 5px;}
+.activeList .info ._tool .bdsharebuttonbox {margin-top: -20px;}
+.oc_bg5 .hd .title{margin-bottom: 0;}
+.oc_bg5 .box > .hd{padding-bottom: 40px;}
+
+.conAddr li{padding-left: 30px;padding-right: 30px; text-align: center}
+.conAddr li dt,.conAddr li dd{float:none;}
+.conAddr li .info{width:100%;}
+.media_bg ._button{padding-left: 0;}
+
+.specialForm .label {width: 140px;}
+.specialForm .afl {padding-left: 190px;}
+.content3.applyForm{max-width: none;}
+
+.f_dl01{margin-right: 4%;}
+.f_dl02 .dp { margin-bottom: 10px;}
+.f_dl03 {width: 45%;}
+
+.siteMaps .list dl { padding-left:160px; margin:0 4%;}
+
+.da_bg04 { height:0; padding-bottom:36%; overflow:hidden;}
+.da_bg04 img { width:100%; height:auto; position:static; margin:0;}
+
+.news_pd .content2 .tools .bdsharebuttonbox { display:none;}
+
+.ds_bg02 .img_bg { display:none;}
+
+.indexPage .full_section > .box,.indexPage .index_imgBox { position:relative;}
+.indexPage .index_imgBox { height:auto!important; padding-bottom:60px;}
+.indexPage .index_imgBox .wrap { padding-left:0; padding-right:0;}
+
+.menuZ-index .wrap,.n_section .wrap { padding-left:0; padding-right:0;}
+.n_section .new_content,.new_section.ab_new02 .new_content { padding-left:8%; padding-right:8%;}
+.combg_part .new_content { width:68%;}
+
+.active_list .intro .title { margin:0;}
+.active_list .time, .active_list .position { font-size:16px;}
+
+.mem_form { margin-left:20%;}
+
+.hz_map .content,.hz_map .line { display:none;}
+
+/*2016-09-30*/
+.zt_main .zt_wrap{width:auto; margin-left: 2%;margin-right: 2%;}
+.zt-box1 .zt_box .info{width:70%;background-size:contain;}
+.zt-box2 .zt_box .zt2_info{width: 67%;background-size: contain;}
+.zt-box2 .zt_box .zt2_info:before{background-position: 68% top;background-size: contain;}
+
+.color_02 .index_imgBox .wrap{padding:0;}
+.pic_list ._mask .cover .p {display: none}
+
+.da_bg04{height: auto;padding-bottom: 0;overflow: hidden;display: none;}
+.da_bg04 li{width: 100%;position: relative;}
+
+.da_bg04 .arrs{width: 10%; }
+.da_bg04 .arr_prev{left: 0%;right: auto;}
+.da_bg04 .arr_next{right: 0%;left: auto;}
+
+/*2016-12-15*/
+/*首页*/
+.full_section > .box { height:auto; }
+.index_imgBox .cover .s_text { margin-top:35%; }
+/*合作伙伴*/
+.hz_map .content{display:block;left:-190px;top:0;}
+.hz_map .hzp02 .content { left:-190px; }
+.hz_map .content .text { display:none; }
+
+/*2017-03-13*/
+/*页脚*/
+/*页脚-相关链接页面（关于我们、媒体资料、联系我们、站点地图）*/
+.rela_links_page .current_section_bg { height:auto; }
+/*页脚-相关链接页面-banner在pad端样式在line:174 已处理，此处不再需要*/
+/*.rela_links_page .current_section_bg img { position:static; width:100%; margin:0; }*/
+/*德稻教育-德稻大师*/
+.full_section.color_01.n_section.dashi04.dt_bg3>.wrap>.dt_sele_ser ul li { margin-left:1%; margin-right:1%; width:31.3%; }
+.full_section.color_01.n_section.dashi04.dt_bg3>.wrap>.dt_sele_ser .m_detail { padding-left:8px; padding-right:8px; }
+/*合作伙伴-详情*/
+.hezuo1 .hezuo1_banner { height:auto; }
+/*line:184对合作伙伴banner有新的样式，此处不再需要*/
+/*.hezuo1 .hezuo1_banner img { position:static; width:100%; margin:0; }*/
+
+/*2017-03-15*/
+/*二级栏目导航*/
+.moreC { white-space:nowrap; }
+.index_imgBox .moreC li { display:inline-block; float:none; }
+
+/*2017-03-16*/
+/*二级栏目标题统一*/
+/*.new_channelIndex.ab_gywm .ab_new01 .hd, 
+	.new_channelIndex.ab_dtds .ab_new01 .hd, 
+	.new_channelIndex.ab_develop .dev_bg01 .hd, 
+	.new_channelIndex.ab_jyyjy .ab01 .hd { padding-top:30px; padding-bottom:40px; }*/
+.new_channelIndex .n_section_a2 .hd { padding:15px 0; }
+.n_section.ab_new01 .box .hd { padding:15px 0; }
+.new_channelIndex .n_section_a2 > .box > .hd .title { margin-top:20px; font-size:30px; }
+.new_channelIndex.ab_gywm .n_section_a2.ab_new01 .title, 
+	.new_channelIndex.ab_dtds .n_section_a2.ab_new01 .title, 
+	.new_channelIndex.ab_develop .n_section_a2.dev_bg01 .title, 
+	.new_channelIndex.ab_jyyjy .n_section_a2.ab01 .title { margin-top:20px; }
+.n_section_a2.dev_bg01 > .box > .hd .title { margin-top:20px; }
+.new_channelIndex.ab_dtds .ab_new01 .hd .title { margin-top:0; line-height:110px; padding-bottom:0; }
+.new_channelIndex .n_section_a2.full_section > .box > .hd .text { height:4.8em; }
+
+
+/*2017-03-17*/
+/*页脚-相关链接页面*/
+.rela_links_page .current_section_bg { height:104px; }
+.rela_links_page .current_section_bg img { zoom:.4; }
+.rela_links_page.color_06 .current_section h2.title { top:50%; }
+/*合作伙伴*/
+/*合作伙伴-banner*/
+.hezuo1 .hezuo1_banner { height:104px; }
+.hezuo1 .hezuo1_banner img { zoom:.3714285; }
+/*德稻教育-德稻大师*/
+.ds_bg02 > .box > .hd { background-color:#ccc; }
+
+/* <768 */
+@media only screen and (max-device-width: 769px){
+
+.about_PinPai .pp { font-size:25px;}
+
+.memberMain .channel_bd { padding-left:200px;}
+.member_left { width:180px;}
+.member_menu a { padding-left:15%;}
+
+.mem_form { margin-left:10%; margin-right:0;}
+
+/*2016-09-30*/
+.zt-box1 .zt_box .info .info_a .h1,.zt-box1 .zt_box .info .info_a .h2{font-size: 30px;}
+.zt-box1 .zt_box .info .info_a .h3{font-size:16px;}
+.zt-box2 .zt_box .zt2_info{width:75%;}
+.zt-box2 .zt_box .zt2_info:after{background-size:cover;}
+.zt-box2 .zt_box .zt2_info .info_d .i_t{margin-bottom:20px;}
+.zt-box2 .zt_box .zt2_info  .zt_slimScrollDiv{height:165px;}
+.zt-box3 .zt3_video{margin-right: 5%;}
+.zt-box3 .zt3_info{width:auto;float:none;}
+.zt-bo{padding-bottom:50px;}
+.zt-box6 .zt3_pd{padding:12% 0 0;}
+.zt6-media li:after{background-size:contain;}
+
+}
