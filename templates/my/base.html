@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/static/bootstarp/favicon.ico">
+
+    <title>Fixed Top Navbar Example for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/static/bootstarp/assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="/static/bootstarp/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="/static/bootstarp/assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style>
+        #slide {
+            width: 100%;
+        {#            margin: -90px auto;#} z-index: 0;
+        }
+
+        #navbar ul li {
+            width: 120px;
+        }
+
+        .navbar {
+            min-height: 90px;
+            margin: 0;
+            font-size: 18px;
+            background-color:rgba(200,200,200,0.7);
+            z-index: 99;
+{#            background-color: cornflowerblue;#}
+            border: 0;
+        }
+
+        .navbar .nav > li > a {
+            color: black;
+{#            color: white;#}
+        }
+
+        .navbar-nav li a:hover {
+            color: red !important;
+        }
+
+        #navbar {
+            margin-top: 30px;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        @media (max-width: 768px) {
+            .log {
+                display: none;
+            }
+        }
+
+
+        @media (min-width: 768px) {
+{#            .container {#}
+{#                width: 98%;#}
+{#            }#}
+        }
+
+        .log {
+            font-size: 14px;
+            float: right;
+            text-decoration: none;
+            margin-top: 10px;
+        }
+
+        a {
+            color: black;
+            text-decoration: none;
+        }
+
+        .actives a {
+{#            font-weight: bold;#}
+            color: #A5132A !important;
+        }
+
+        ::-webkit-scrollbar {
+            width: 0;
+            height: 0;
+        }
+        .panel-footer{
+            background: #C9C9CA;
+{#            color: #595757;#}
+            padding: 60px 0;
+        }
+        .bg-img{
+            width: auto;
+        }
+
+    </style>
+            {% block style %}
+{% endblock %}
+
+</head>
+<body>
+
+<!-- 导航 -->
+<nav class="navbar navbar-default">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar"
+                    aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            {#            <a class="navbar-brand" href="#">Project name</a>#}
+            <a class="navbar-brand" href="#">
+                <img alt="Brand" src="/static/images/logo.png">
+            </a>
+
+        </div>
+        <div class="log">
+            <span><a href="">注册</a></span>|
+            <span><a href="">登陆</a></span>
+            <span style="margin-left: 20px"><a href="">中文</a></span>|
+            <span><a href="">英文</a></span>
+        </div>
+
+        <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="actives"><a href="/">首页</a></li>
+                <li><a href="/about/">德稻传媒</a></li>
+                <li><a href="/master/">德稻大师</a></li>
+                <li><a href="#">产品中心</a></li>
+                <li><a href="">合作中心</a></li>
+                <li><a href="">传媒动态</a></li>
+
+            </ul>
+
+        </div>
+
+    </div>
+</nav>
+<!-- 导航 -->
+{% block center %}
+{% endblock %}
+<!-- 页脚 -->
+<div class="panel-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12">
+                    <div class="col-lg-12" style="font: 18px 黑体 bold; padding-bottom: 10px"><a>相关链接</a></div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-3" style="padding-bottom: 5px;"><a>德稻集团</a></div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-3" style="padding-bottom: 5px;"><a>教务系统</a></div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-3" style="padding-bottom: 5px;"><a>在线教育平台</a></div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-3" style="padding-bottom: 5px;"><a>德稻教育</a></div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
+
+                    <div class="col-lg-12" style="font: 18px 黑体 bold; padding-bottom: 10px"><a>联系德稻</a></div>
+                    <div class="col-lg-12" style="padding-bottom: 5px;"><a>电话 +86 (21) 3701 6333 转 1331</a></div>
+                    <div class="col-lg-12" style="padding-bottom: 5px;"><a>地址 上海市松江区文翔路2200号</a></div>
+                    <div class="col-lg-6" style="padding-bottom: 5px;"><a>相关链接</a></div>
+                    <div class="col-lg-6" style="padding-bottom: 5px;"><a>相关链接</a></div>
+
+            </div>
+            <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12">
+
+                    <div class="col-lg-12" style="font: 18px 黑体 bold; padding-bottom: 10px"><a></a></div>
+                    <div class="col-lg-12" style="padding-bottom: 5px;"><a>摄影 牛志坤、德稻教育视频组</a></div>
+                    <div class="col-lg-12" style="padding-bottom: 5px;"><a>版权所有 ©2009- 2017 上海德稻集群文化创意产业（集团）有限公司 </a></div>
+                    <div class="col-lg-12" style="padding-bottom: 5px;"><a>沪公网安备 31011702001042号 </a></div>
+                    <div class="col-lg-12" style="padding-bottom: 5px;"><a>沪ICP备15017582号-4</a></div>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- 页脚 -->
+
+<div style="height: 600px"></div>
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/static/bootstarp/assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<script src="/static/bootstarp/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+<script>
+    $(function () {
+        $("#slides").height($(window).height());
+        $("#slide").carousel({
+            interval: 4000
+        });
+        $(window).resize(function () {
+            $(window).height();
+            $("#slides").height($(window).height());
+            $(".bg-img").height($(window).height())
+            $(".bg-img").width($(window).width())
+        });
+    });
+</script>
+</body>
+</html>

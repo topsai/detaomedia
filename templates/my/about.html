@@ -1,0 +1,60 @@
+{% extends "my/base.html" %}
+{% block style %}
+    <style>
+        @media (min-width: 1200px) {
+            .big-fount {
+                font-size: 40px;
+            }
+        }
+
+        @media (max-width: 992px) {
+            .big-fount {
+                font-size: 30px;
+            }
+        }
+
+        p {
+            font-size: 18px;
+            letter-spacing: 5px;
+        }
+    </style>
+
+{% endblock %}
+{% block center %}
+    <div class="container-fluid" style="background-color: #A5132A; padding-top: 3%; padding-bottom: 3%">
+        <div class="row" style="text-align: center; color: white;">
+            <div class="col-lg-12">
+                <h2 class="big-fount">德&nbsp;&nbsp;稻&nbsp;&nbsp;传&nbsp;&nbsp;媒</h2>
+                <p style="">全球知识资本耕耘者</p>
+                <p>战略&nbsp;&nbsp;&nbsp;设计&nbsp;&nbsp;&nbsp;创新</p>
+            </div>
+
+        </div>
+
+
+    </div>
+    <!--关于我们-->
+    <div class="container" style="padding: 50px 0;">
+        <div style="text-align: center; ">
+            <p style="font-size: 30px">关于我们</p>
+            <p> &nbsp;</p>
+        </div>
+        <div class="row">
+            <div class="col-lg-5" >
+                <a href="#" class="img-thumbnail">
+                    <img style="width: 100%" src="/static/about.png">
+                </a>
+            </div>
+            <div class="col-lg-7">
+                <p>
+                    德稻是一家国际化的本土企业，以“汇聚世界大师、采集全球智慧、培育行业精英、助力企业发展”为理念，是一家立足文化教育、环境金融、互联网科技、时尚设计、影视娱乐等多领域的知识型、创新型综合企业集群。目前，德稻汇聚了来自30多个国家60多个行业的500余位国际行业大师。
+                </p>
+                <p> &nbsp;</p>
+                <p>
+                    德稻传媒作为德稻集团的全资子公司，依托德稻集团覆盖全球的创新资源以及知识资本体系，瞄准全国各行业翘楚，积极开展多领域下的创新实践，逐步建立起覆盖全行业的创新平台、促进中小企业转型与升级的知识资本服务平台、建立连通全球的金融服务平台，以及大师工作室等创新平台在内的全球行业服务网络体系，致力于为企业与行业提供知识资本市场化应用的综合解决方案。</p>
+            </div>
+        </div>
+
+    </div>
+    <!--关于我们-->
+{% endblock %}

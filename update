@@ -1,0 +1,6 @@
+#!/bin/bash
+cd /data/test/;
+git pull;
+chmod +x conf/*;
+systemctl restart daphne;
+systemctl restart daphnew;
