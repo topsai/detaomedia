@@ -1,0 +1,2528 @@
+Uri: http://www.detaoma.com/
+File Name: c:\Downloaded Web Sites\www.detaoma.com\index.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/resources/favicon.ico
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://www.detaoma.com/resources/ui/ui.css?v=2
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\ui\ui.css
+Content Type: text/css
+
+Uri: http://www.detaoma.com/resources/ui/grid12.css
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\ui\grid12.css
+Content Type: text/css
+
+Uri: http://www.detaoma.com/resources/web/css/style.css?v=1
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\css\style.css
+Content Type: text/css
+
+Uri: http://www.detaoma.com/resources/web/css/responsive.css?v=3
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\css\responsive.css
+Content Type: text/css
+
+Uri: http://www.detaoma.com/resources/web/css/animate.css
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\css\animate.css
+Content Type: text/css
+
+Uri: http://www.detaoma.com/about/de-dao-da-shi.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\de-dao-da-shi.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/zhuan-ye-gong-jian.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\zhuan-ye-gong-jian.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/xian-shang-ke-cheng.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\xian-shang-ke-cheng.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/partner/he-zuo-huo-ban.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\partner\he-zuo-huo-ban.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/index.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\index-1.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/about/guan-yu-wo-men.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\guan-yu-wo-men.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/about/de-dao-li-cheng.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\de-dao-li-cheng.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/about/jiao-yu-yan-jiu-yuan.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\jiao-yu-yan-jiu-yuan.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/ke-cheng-shu-chu.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\ke-cheng-shu-chu.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/shi-zi-pei-xun.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\shi-zi-pei-xun.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/da-shi-jiang-tan.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\da-shi-jiang-tan.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/service/jiao-yu-yan-jiu.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\service\jiao-yu-yan-jiu.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/service/kong-jian-she-ji.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\service\kong-jian-she-ji.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/service/guo-ji-jiao-liu.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\service\guo-ji-jiao-liu.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/service/jin-rong-fu-wu.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\service\jin-rong-fu-wu.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/service/chan-ye-zi-xun.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\service\chan-ye-zi-xun.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/news/re-dian-xin-wen.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\news\re-dian-xin-wen.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/news/jin-qi-huo-dong.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\news\jin-qi-huo-dong.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/news/da-shi-dong-tai.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\news\da-shi-dong-tai.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/subject/subject-detail.jsp?id=624766
+File Name: c:\Downloaded Web Sites\www.detaoma.com\subject\subject-detail.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/partner/600260.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\partner\600260.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/partner/596166.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\partner\596166.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/partner/621208.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\partner\621208.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/site/cheng-pin-ying-cai.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\site\cheng-pin-ying-cai.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/site/mei-ti-zi-liao.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\site\mei-ti-zi-liao.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/site/lian-xi-de-dao.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\site\lian-xi-de-dao.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/site/sitemap.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\site\sitemap.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/resources/web/js/imgLoader.js
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\js\imgLoader.js
+Content Type: application/javascript
+
+Uri: http://www.detaoma.com/resources/modules/seajs/sea.js
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\modules\seajs\sea.js
+Content Type: application/javascript
+
+Uri: http://www.detaoma.com/resources/web/seajs.config.js
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\seajs.config.js
+Content Type: application/javascript
+
+Uri: http://www.detaoma.com/resources/web/img/logo.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\logo.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/08/18/eb32c20aa927466f86695a0e93f55b5b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\08\18\eb32c20aa927466f86695a0e93f55b5b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/13/c55e209ec83c4085a23b53580869bca6.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\13\c55e209ec83c4085a23b53580869bca6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/03/dbeb391f572b4f2a9bc65c3abfbe2239.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\03\dbeb391f572b4f2a9bc65c3abfbe2239.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/index_arr.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\index_arr.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/57097d58086d4a0ba6655f0a084ffcea.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\57097d58086d4a0ba6655f0a084ffcea.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/6530e030aa504fb29e336e7454e98c9c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\6530e030aa504fb29e336e7454e98c9c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/443228df144f4d7289defeaaeb92ef57.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\443228df144f4d7289defeaaeb92ef57.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/75d635e2eb5f44b3acb279f936f48b24.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\75d635e2eb5f44b3acb279f936f48b24.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/06/f6510e1cd35c4b9aa2a633ddf20b6dae.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\06\f6510e1cd35c4b9aa2a633ddf20b6dae.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/dedfe33d4b9e40d2b8c23733579da636.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\dedfe33d4b9e40d2b8c23733579da636.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/4e559038a34f43c388e00a7c1f306d86.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\4e559038a34f43c388e00a7c1f306d86.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/0224aa82c51247aba0a83e0ac529e1c2.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\0224aa82c51247aba0a83e0ac529e1c2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/2a7b8da6077f445e9ea0747c86e1d791.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\2a7b8da6077f445e9ea0747c86e1d791.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/ebddd052429d42c8a25d3201b7778cd2.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\ebddd052429d42c8a25d3201b7778cd2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/d0918502726448b68f81df91b8d72819.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\d0918502726448b68f81df91b8d72819.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/07/19/a1ab4f9dbdc6413998107383b36beb77.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\07\19\a1ab4f9dbdc6413998107383b36beb77.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/940202bcd3a6459f8879768ea2a48754.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\940202bcd3a6459f8879768ea2a48754.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/17/45dade4e25614029be512d85ce1aad6f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\17\45dade4e25614029be512d85ce1aad6f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/09/19/0dba4ba42912421894b50204d4b8ee2b.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\09\19\0dba4ba42912421894b50204d4b8ee2b.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/10/18/b80f05399d504d9494a0fcb6cec4d736.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\10\18\b80f05399d504d9494a0fcb6cec4d736.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/09/19/4e020c5371724926802e7a95d1c13167.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\09\19\4e020c5371724926802e7a95d1c13167.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/04/01/dccb4a2fb18245d2bef5ac9879a63ec6.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\04\01\dccb4a2fb18245d2bef5ac9879a63ec6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/07/3b6448022a954c1fbbcace821e704153.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\07\3b6448022a954c1fbbcace821e704153.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/e45a105cda834804ace282531e7a76d8.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\e45a105cda834804ace282531e7a76d8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/qr_code_weibo.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\qr_code_weibo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/qr_code_weixin.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\qr_code_weixin.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/icp.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\icp.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/ui/iconfont.eot
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\ui\iconfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.detaoma.com/resources/ui/iconfont.woff
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\ui\iconfont.woff
+Content Type: application/x-font-woff
+
+Uri: http://www.detaoma.com/resources/ui/iconfont.ttf
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\ui\iconfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://www.detaoma.com/resources/ui/iconfont.svg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\ui\iconfont.svg
+Content Type: image/svg+xml
+
+Uri: http://www.detaoma.com/resources/fonts/Roboto-Regular.ttf
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\fonts\Roboto-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://www.detaoma.com/resources/web/img/ico.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\ico.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/white.7.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\white.7.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/white.9.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\white.9.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/black.6.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\black.6.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/red.8.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\red.8.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/green.8.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\green.8.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/bg_btn03.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\bg_btn03.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/ico38.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\ico38.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/a_bg3.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\a_bg3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/a_arr.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\a_arr.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/a_bg4.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\a_bg4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/a_bg5.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\a_bg5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/green.3.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\green.3.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/loading2.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\loading2.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/resources/web/img/search.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\search.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/share.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\share.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/red.3.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\red.3.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/map_posi.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\map_posi.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/v_play.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\v_play.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/v_bg03.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\v_bg03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/share2.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\share2.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/white.4.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\white.4.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/white.8.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\white.8.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/_down.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\_down.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/a_bg2.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\a_bg2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/e_bg5.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\e_bg5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/ibg03.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\ibg03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/ibg04.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\ibg04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/about_bg01.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\about_bg01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/about_bg02.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\about_bg02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/dott.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\dott.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/zygj_bg01.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\zygj_bg01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/zygj_bg02.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\zygj_bg02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/kcsc_bg01.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\kcsc_bg01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/szpx_bg01.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\szpx_bg01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/dsjt_bg01.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\dsjt_bg01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/jyfw_bg01.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\jyfw_bg01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/map_point.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\map_point.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/map_line.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\map_line.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/zt/zt_bg2.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\zt\zt_bg2.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/zt/zt_bg1.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\zt\zt_bg1.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/zt/zt2_bg1.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\zt\zt2_bg1.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/zt/zt3_bg2.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\zt\zt3_bg2.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/zt/zt3_bg3.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\zt\zt3_bg3.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/zt/zt4_b3.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\zt\zt4_b3.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/zt/zt4_b.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\zt\zt4_b.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/zt/zt4_b2.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\zt\zt4_b2.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/zt/zt_bg6.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\zt\zt_bg6.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/zt/gray.7.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\zt\gray.7.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/ico80.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\ico80.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/san.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\san.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/about_bg02_02.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\about_bg02_02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/map_line2.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\map_line2.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/css/Pad.css
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\css\Pad.css
+Content Type: text/css
+
+Uri: http://www.detaoma.com/resources/web/css/Mobile.css
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\css\Mobile.css
+Content Type: text/css
+
+Uri: http://www.detaoma.com/product/595584.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595584.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/595585.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595585.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/595594.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595594.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/595593.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595593.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/595591.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595591.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/595590.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595590.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/595589.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595589.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/595588.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595588.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/595587.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595587.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/595586.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595586.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596635.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596635.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/621093.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\621093.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/621061.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\621061.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/resources/web/img/nzy_img01.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nzy_img01.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/nzy_img02.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nzy_img02.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/nzy_img03.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nzy_img03.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/10/17/37a69627034b449d942e659958f054bb.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\10\17\37a69627034b449d942e659958f054bb.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/b59c09899d824d46868bdc5f7a061bef.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\b59c09899d824d46868bdc5f7a061bef.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/d9964c6cfce7415f868c33d1a9f88688.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\d9964c6cfce7415f868c33d1a9f88688.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/db28fdeec78c47d4a435862cb0776d3f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\db28fdeec78c47d4a435862cb0776d3f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/06/61d76b4d56644f16a172a8da60d67fa6.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\06\61d76b4d56644f16a172a8da60d67fa6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/10/17/f8ec6b03d1634103bfec93e2a8eae23e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\10\17\f8ec6b03d1634103bfec93e2a8eae23e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/441cfc335a7c41a392f9371acc558921.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\441cfc335a7c41a392f9371acc558921.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/4f082303b98e4792a5dbe10125afbf25.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\4f082303b98e4792a5dbe10125afbf25.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/93c171e1628b4c1cbb5e217f76f0d59e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\93c171e1628b4c1cbb5e217f76f0d59e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/823662dd272247a2ac609d0098c3174e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\823662dd272247a2ac609d0098c3174e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/0807e6de2af24917b8f784ad2bf519ad.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\0807e6de2af24917b8f784ad2bf519ad.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/b6d6da7689b048fdbfbc6e5bc8c97299.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\b6d6da7689b048fdbfbc6e5bc8c97299.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/03/776e7367288d4948a0a06857120f241c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\03\776e7367288d4948a0a06857120f241c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/68ec19ba207645ff87ca02e5922488da.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\68ec19ba207645ff87ca02e5922488da.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/81a3fb2d0f494f478dc9da460aa312c5.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\81a3fb2d0f494f478dc9da460aa312c5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/9a422da8712e41998ed2c63545a5de1c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\9a422da8712e41998ed2c63545a5de1c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/856a844bba994c489c1c8ed7295a7bc1.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\856a844bba994c489c1c8ed7295a7bc1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/75ff16a4a7a54e15a5b2f695f0da624a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\75ff16a4a7a54e15a5b2f695f0da624a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/21ab1ec7cc69421a9ba77274dddeea59.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\21ab1ec7cc69421a9ba77274dddeea59.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/09db9ef6ce6b4d60a80f8408ebc25b9f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\09db9ef6ce6b4d60a80f8408ebc25b9f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/ff814ab8a96f4506b9d42f71b9a8e9b4.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\ff814ab8a96f4506b9d42f71b9a8e9b4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/88e29b3642dc4e59ae8db8a42cf3af7f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\88e29b3642dc4e59ae8db8a42cf3af7f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/91f4f1d543e54f53a1bd1a9b7eed5f6e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\91f4f1d543e54f53a1bd1a9b7eed5f6e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/585a416d6d7f42cc8fcd036ca41e9a68.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\585a416d6d7f42cc8fcd036ca41e9a68.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/1205faac9dfc485b99872ef4a1899d06.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\1205faac9dfc485b99872ef4a1899d06.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/c8250adb55834e9eb3f3f80a5dec04da.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\c8250adb55834e9eb3f3f80a5dec04da.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/53a3c86895464c3082af7d963e1cd652.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\53a3c86895464c3082af7d963e1cd652.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/59f0eaf5e26945de885f24d850f9611e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\59f0eaf5e26945de885f24d850f9611e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/0f35136b04514d4f93f8f18f7b3a0e2a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\0f35136b04514d4f93f8f18f7b3a0e2a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/e0e35c983b014e10a10996688a7cc8f7.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\e0e35c983b014e10a10996688a7cc8f7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/595816.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595816.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/resources/web/img/nzy_img04.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nzy_img04.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/nzy_img05.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nzy_img05.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/nzy_img06.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nzy_img06.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/11/07/df949702da6d46f1af3d9444ad53a251.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\07\df949702da6d46f1af3d9444ad53a251.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/dt_map.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\dt_map.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/11/07/62253ac453b04b1181a41a90bc3f61e8.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\07\62253ac453b04b1181a41a90bc3f61e8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/cd717865185f4fac917f3923e9854157.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\cd717865185f4fac917f3923e9854157.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/8843fa38bc3948eaa1e38f753875ff29.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\8843fa38bc3948eaa1e38f753875ff29.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/b7a94a78d4214e4c84401a49ac24add5.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\b7a94a78d4214e4c84401a49ac24add5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/21ee01a9b04f45a0adb6158fa100238f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\21ee01a9b04f45a0adb6158fa100238f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/6f76093d7e75419791886b7bbf93e106.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\6f76093d7e75419791886b7bbf93e106.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/20d64172449a4046b0e990c73683fa6c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\20d64172449a4046b0e990c73683fa6c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/13/84eba5c01c764184b9e227ab07decd0c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\13\84eba5c01c764184b9e227ab07decd0c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/023ee77328fc49c59b6891c519698bc5.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\023ee77328fc49c59b6891c519698bc5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/85243c87163e4ab2bf89e4783d4787cc.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\85243c87163e4ab2bf89e4783d4787cc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/e04359fcd6e54a1b9247168f6fe688ed.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\e04359fcd6e54a1b9247168f6fe688ed.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/4f8c2bb093a94bd88d7d36340b2b95f5.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\4f8c2bb093a94bd88d7d36340b2b95f5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/c39a76a3e8594c9d9872dcc12dbffdce.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\c39a76a3e8594c9d9872dcc12dbffdce.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/13/0430715f171143919f44b7e0367c8474.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\13\0430715f171143919f44b7e0367c8474.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/9fe2b99046094eb7b4cdce298c9c8317.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\9fe2b99046094eb7b4cdce298c9c8317.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/13/66b7332b583b40399521e083af24bd9f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\13\66b7332b583b40399521e083af24bd9f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/13/51543ce5b73d4d65a6a11964932dc646.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\13\51543ce5b73d4d65a6a11964932dc646.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/13/e16fd6dc9976418ab4ecc6744bf13477.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\13\e16fd6dc9976418ab4ecc6744bf13477.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/13/25975899376f46d8a1ebb32114407361.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\13\25975899376f46d8a1ebb32114407361.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/c0a51000f1d441328234d335bf9a8136.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\c0a51000f1d441328234d335bf9a8136.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/5bb5bbd9486544b5ad92ebf41ce956d7.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\5bb5bbd9486544b5ad92ebf41ce956d7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/025fdde7b9664335a3a0d9a115b5b5d8.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\025fdde7b9664335a3a0d9a115b5b5d8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/43b9ef17c0174cf0b8d0aa336e0b91ca.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\43b9ef17c0174cf0b8d0aa336e0b91ca.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/88f00dc25a1a4342a22fcd317c6c4f84.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\88f00dc25a1a4342a22fcd317c6c4f84.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/66999c2190cd43258f230c3401fa22ad.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\66999c2190cd43258f230c3401fa22ad.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/1c5e774b076f443fb44c3d358bae6221.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\1c5e774b076f443fb44c3d358bae6221.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/639f6c75c8dc4aa7b57d5b82c97e8f39.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\639f6c75c8dc4aa7b57d5b82c97e8f39.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/77be720faac74812b0a76f3d4bcbe12e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\77be720faac74812b0a76f3d4bcbe12e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/d4be3e0c762949c6aaa44d9224034987.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\d4be3e0c762949c6aaa44d9224034987.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/737718b5494a4e7e9f07bd18bb0b7b6d.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\737718b5494a4e7e9f07bd18bb0b7b6d.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/07/0149dec274834b3bbd5a64b6c3396e29.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\07\0149dec274834b3bbd5a64b6c3396e29.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/22/a4707d035583439daf8b7922df633a47.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\22\a4707d035583439daf8b7922df633a47.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/08/22/3658c1db66914fd8af9ff3510ada33af.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\22\3658c1db66914fd8af9ff3510ada33af.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/c58b47ce0c8c4614942ec028710d81a6.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\c58b47ce0c8c4614942ec028710d81a6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/d9b5cd652de74e5e9e221ac8052d6651.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\d9b5cd652de74e5e9e221ac8052d6651.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/9908e866a32249adb0df126dbe9b48d5.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\9908e866a32249adb0df126dbe9b48d5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/9921fe659c9e4bdcbf76e01fc880ae48.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\9921fe659c9e4bdcbf76e01fc880ae48.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/c9925897939845a6b73248d47e111175.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\c9925897939845a6b73248d47e111175.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/60f42e3298344d42924184f9f8dd8321.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\60f42e3298344d42924184f9f8dd8321.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/941b8f5953324aaa879def8f169a72da.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\941b8f5953324aaa879def8f169a72da.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/aff3323dfe01483894c1680c3b134697.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\aff3323dfe01483894c1680c3b134697.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/0312f1d78bd34c5fa637bf192864876e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\0312f1d78bd34c5fa637bf192864876e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/18fb02a75ac749bc9b96bdde253ffa8b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\18fb02a75ac749bc9b96bdde253ffa8b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/a2873cf1c65c4bafa79d2d28d0b7a3ab.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\a2873cf1c65c4bafa79d2d28d0b7a3ab.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/2dd415ec8d8241d2bbb667b3680fde47.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\2dd415ec8d8241d2bbb667b3680fde47.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/70eb3969158647b1b6039304303054de.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\70eb3969158647b1b6039304303054de.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/cbc7ca1fbfce4228a45d4685587bd8dc.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\cbc7ca1fbfce4228a45d4685587bd8dc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/f2581b22eb9040b2abfd30a6e50781ec.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\f2581b22eb9040b2abfd30a6e50781ec.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/18f54b30b9f845d5934e1866a0cbc752.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\18f54b30b9f845d5934e1866a0cbc752.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/ddaf0fcab2df47f585ed21339887a41f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\ddaf0fcab2df47f585ed21339887a41f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/4f591c89f7e84f5695559c19acb60e27.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\4f591c89f7e84f5695559c19acb60e27.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/22/9854c24a498a4ea0a2d99a81596063f9.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\22\9854c24a498a4ea0a2d99a81596063f9.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/ac8c296d33e64925af48a07480420d9b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\ac8c296d33e64925af48a07480420d9b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/52fe626107d941e9976fe21f2d45bf67.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\52fe626107d941e9976fe21f2d45bf67.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/34ca16137f0d40819befd7abf4c8a461.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\34ca16137f0d40819befd7abf4c8a461.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/ed652dd9c0bd4ccd98f47a7aa82a7179.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\ed652dd9c0bd4ccd98f47a7aa82a7179.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/f3a08fdb0c8d4d039c73ed5f06817f3a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\f3a08fdb0c8d4d039c73ed5f06817f3a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/b0be2b0132e9452aafd09a46b6f8a80b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\b0be2b0132e9452aafd09a46b6f8a80b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/nabbg.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nabbg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/nab_img01.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nab_img01.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/nab_img02.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nab_img02.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/nab_img03.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nab_img03.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/nab_img04.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nab_img04.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/nab_img05.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nab_img05.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/11/09/10e81bfeaa3842be95774f1f95d71ca1.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\09\10e81bfeaa3842be95774f1f95d71ca1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/fded0355ba694690991dcefe36fe9ee4.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\fded0355ba694690991dcefe36fe9ee4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/4f1200e831084323ab7cc0b3d30c00ae.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\4f1200e831084323ab7cc0b3d30c00ae.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/2a7bb5f934264f4ca16233463002f3b6.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\2a7bb5f934264f4ca16233463002f3b6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/ee7c0302c42b41b2b18c680b5ba6cf55.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\ee7c0302c42b41b2b18c680b5ba6cf55.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/a4366131ea4a4b0cb80e50f8340331ad.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\a4366131ea4a4b0cb80e50f8340331ad.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/eef05a5b02264a1d8b21e3feff1cc0f2.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\eef05a5b02264a1d8b21e3feff1cc0f2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/379e3791b77045ccbde2d44aee5618d9.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\379e3791b77045ccbde2d44aee5618d9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/c92abb4fbe804387be1567efbc1489ee.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\c92abb4fbe804387be1567efbc1489ee.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/3cd0f491f3844491bf284b14cb839c8a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\3cd0f491f3844491bf284b14cb839c8a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/183c3c08e123428d9b549196ab2a9223.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\183c3c08e123428d9b549196ab2a9223.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/7a95d0093fab4974b628ff6bdb3dcaee.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\7a95d0093fab4974b628ff6bdb3dcaee.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/c5adecf7fd394187b941ed93d34d9649.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\c5adecf7fd394187b941ed93d34d9649.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/3c34a17581cd40718f8efeea86cefdb3.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\3c34a17581cd40718f8efeea86cefdb3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/98be8ce58a7b42a7b20e8e8f1ad1ed0b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\98be8ce58a7b42a7b20e8e8f1ad1ed0b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/adf98cda06714416a96ecc0f7e6e3d91.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\adf98cda06714416a96ecc0f7e6e3d91.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/dcad9a344e524314ab217a0cf99aadd3.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\dcad9a344e524314ab217a0cf99aadd3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/a50dc15e8f084b129b0c89e3db4757b7.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\a50dc15e8f084b129b0c89e3db4757b7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/06f4cedd8bc843bf83240613aaa7d131.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\06f4cedd8bc843bf83240613aaa7d131.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/6b5aa87907a444ba82c77d7d2c32d8b2.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\6b5aa87907a444ba82c77d7d2c32d8b2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/c997de53774f457097ca56c5426c36f8.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\c997de53774f457097ca56c5426c36f8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/0f6d5cb24c424c758952d45176fbe25b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\0f6d5cb24c424c758952d45176fbe25b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/f102165c18054949926f2d239917aeaf.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\f102165c18054949926f2d239917aeaf.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/513e27770b5b4eb788adc33888bc079f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\513e27770b5b4eb788adc33888bc079f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/18/cf6a911de3524f1fb379ece08951ee4a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\18\cf6a911de3524f1fb379ece08951ee4a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/cbf22a77cb674f91874c053ebd98e8b0.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\cbf22a77cb674f91874c053ebd98e8b0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/90205f15b8154c028f7b2efd8b64344c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\90205f15b8154c028f7b2efd8b64344c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/38089f7da9ea4b4e87be84766fd8e52a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\38089f7da9ea4b4e87be84766fd8e52a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/25/818ced6fdd52444c996308fb292dabba.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\25\818ced6fdd52444c996308fb292dabba.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/92876ec334c448e49508fd521e9c0c4c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\92876ec334c448e49508fd521e9c0c4c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/9abd566cf85946809b563de3ab93839b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\9abd566cf85946809b563de3ab93839b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/a1d8d2c7a4d3417286539bea9917fe72.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\a1d8d2c7a4d3417286539bea9917fe72.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/18/008bfe36956c49c3b46a00b627a34450.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\18\008bfe36956c49c3b46a00b627a34450.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/0b512b37502a4f919d967e85da03a5e8.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\0b512b37502a4f919d967e85da03a5e8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/8735f9b767ab4621a2fda3027d8656b2.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\8735f9b767ab4621a2fda3027d8656b2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/18/dbc2ddce54ed42aa8acd56b30d9de719.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\18\dbc2ddce54ed42aa8acd56b30d9de719.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/dd1af95479854887a9975b7799cac577.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\dd1af95479854887a9975b7799cac577.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/a6fb3591c452480698a76fb2bbc6062a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\a6fb3591c452480698a76fb2bbc6062a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/066920693e0d4effbb2731bfc1f79fde.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\066920693e0d4effbb2731bfc1f79fde.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/69d008b721964919a70b01c859e1ca5d.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\69d008b721964919a70b01c859e1ca5d.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/08/a5bb7ac040864fd3a49670f9a2a4aaec.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\08\a5bb7ac040864fd3a49670f9a2a4aaec.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/ab_ico01.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\ab_ico01.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/ab_ico02.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\ab_ico02.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/03/24/97808afe55ec40ca88142a73a424ff74.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\24\97808afe55ec40ca88142a73a424ff74.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/03/98546bd62e8849a79e78551ecfc6765e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\03\98546bd62e8849a79e78551ecfc6765e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/596715.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596715.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596713.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596713.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596711.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596711.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596709.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596709.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596707.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596707.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596703.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596703.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596699.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596699.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596697.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596697.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596694.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596694.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596656.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596656.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/resources/web/img/nkc_img01.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nkc_img01.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/nkc_img02.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nkc_img02.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/nkc_img03.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nkc_img03.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/resources/web/img/nkc_img04.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\nkc_img04.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/5926977346d6465fa338e63320500209.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\5926977346d6465fa338e63320500209.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/dfea9620bb304aec918b12be255572c6.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\dfea9620bb304aec918b12be255572c6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/15ea5107c0d14c6ba46913cc58e85d35.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\15ea5107c0d14c6ba46913cc58e85d35.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/28096657498c4148ad6993c997fc95f1.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\28096657498c4148ad6993c997fc95f1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/4008945bfaa64ad79bc5b428971e1d40.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\4008945bfaa64ad79bc5b428971e1d40.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/be8de39527a947008cc00b9caff887f0.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\be8de39527a947008cc00b9caff887f0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/5a1dd114512741d58207a072dd77fd83.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\5a1dd114512741d58207a072dd77fd83.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/604fcb164e254933bd48daa818883b22.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\604fcb164e254933bd48daa818883b22.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/5cd7bae97a634bffbd416fd0d413a947.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\5cd7bae97a634bffbd416fd0d413a947.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/10/08/22963c28377742eebb1576a49a8cfe56.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\10\08\22963c28377742eebb1576a49a8cfe56.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/a3f9e1326bb942d5972d739df349e2f7.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\a3f9e1326bb942d5972d739df349e2f7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/dce9097788364c9cb134d8f255f0d4de.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\dce9097788364c9cb134d8f255f0d4de.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/3485e62897034587a4c6c2cac765fce7.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\3485e62897034587a4c6c2cac765fce7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/d722662f64e848a7b973b49e48fa396e.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\d722662f64e848a7b973b49e48fa396e.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/c76a11b6bcfe45a893dab6156d324fa9.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\c76a11b6bcfe45a893dab6156d324fa9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/f5412b645f894033971ae0b6d53c378e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\f5412b645f894033971ae0b6d53c378e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/257d12d354df4e968fd3f595221757e4.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\257d12d354df4e968fd3f595221757e4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/f5708c070d64471eb2550360835fa90c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\f5708c070d64471eb2550360835fa90c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/3333220e7a8846fbb85c09ddcb7ad913.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\3333220e7a8846fbb85c09ddcb7ad913.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/08f9db3ac20d4b35978a37620403d44c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\08f9db3ac20d4b35978a37620403d44c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/991106b966794a2fa99199ecfb141e43.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\991106b966794a2fa99199ecfb141e43.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/71dca36e99c94fb99455167c41b4460a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\71dca36e99c94fb99455167c41b4460a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/db4fe463759a4a6fa44b8503533f365e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\db4fe463759a4a6fa44b8503533f365e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/1729cfc7f6b540aea135eff9f7470b8d.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\1729cfc7f6b540aea135eff9f7470b8d.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/07629018569c4c8dbd411f3b1a50acfd.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\07629018569c4c8dbd411f3b1a50acfd.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/596745.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596745.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/11/07/a8e94e8750cb425dbf6a823365e07ed7.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\07\a8e94e8750cb425dbf6a823365e07ed7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/07936214c6a8420fb223e6ae63e2f0db.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\07936214c6a8420fb223e6ae63e2f0db.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/d91badfd4e88482d94a8f7ac171c8d7a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\d91badfd4e88482d94a8f7ac171c8d7a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/e1a43c63188644168d315f5f8adc7a7e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\e1a43c63188644168d315f5f8adc7a7e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/15/7ad2723d0b1b45a3acabb4c22928ca4e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\15\7ad2723d0b1b45a3acabb4c22928ca4e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/c777314fb2cb46a6b17199bac43d3dcc.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\c777314fb2cb46a6b17199bac43d3dcc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/1f8635ceefa74811b776b15dae114ead.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\1f8635ceefa74811b776b15dae114ead.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/d13b9d5a470f44a69dbb830405ceb009.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\d13b9d5a470f44a69dbb830405ceb009.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/dc02b3d9eb864218b171a0f80a35b50d.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\dc02b3d9eb864218b171a0f80a35b50d.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/4b8ee25b458c4b71ae707a1bdf58acbc.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\4b8ee25b458c4b71ae707a1bdf58acbc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/ba5325983a42411c96c34502b305a150.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\ba5325983a42411c96c34502b305a150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/05/4511186a7ed44fcb880e4d025f08ad47.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\05\4511186a7ed44fcb880e4d025f08ad47.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/595564.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595564.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596847.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596847.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596856.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596856.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596922.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596922.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596869.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596869.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596946.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596946.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/597001.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\597001.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596862.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596862.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596877.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596877.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596818.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596818.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596995.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596995.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596896.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596896.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596840.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596840.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596938.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596938.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596889.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596889.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/595566.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595566.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596904.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596904.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596803.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596803.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596830.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596830.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596912.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596912.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/0b5415741a974fe0a5d23c1b062a48af.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\0b5415741a974fe0a5d23c1b062a48af.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/8666a2471ac44d33ac087c55482ec36a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\8666a2471ac44d33ac087c55482ec36a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/65bfb0c3f58b492aa7b94da869fc1c40.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\65bfb0c3f58b492aa7b94da869fc1c40.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/9ed0c71ab09d4571b1b52720fa143b64.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\9ed0c71ab09d4571b1b52720fa143b64.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/b1792dfa41d14bddb519444674ab7b42.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\b1792dfa41d14bddb519444674ab7b42.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/5918dd1e57b441f19d29d95b0ada5d19.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\5918dd1e57b441f19d29d95b0ada5d19.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/1a790cc3b38f4ba2a612dbad6d4005fa.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\1a790cc3b38f4ba2a612dbad6d4005fa.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/e34e6ea472be4a559b1983feed2767ef.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\e34e6ea472be4a559b1983feed2767ef.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/c5590be5acb743099fd1501d03435073.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\c5590be5acb743099fd1501d03435073.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/e9a84d3af5444047afca17964f0f5b7c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\e9a84d3af5444047afca17964f0f5b7c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/5517eef566d34163ab230962f9e7eb21.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\5517eef566d34163ab230962f9e7eb21.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/2c96003031744a228d11f2453b7e274f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\2c96003031744a228d11f2453b7e274f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/dbed995535754fb0a0afe7912478c6d3.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\dbed995535754fb0a0afe7912478c6d3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/c79fe3a629504465b2c8d6a1eee98de0.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\c79fe3a629504465b2c8d6a1eee98de0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/3daa6b803863452084b0f0c85259c671.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\3daa6b803863452084b0f0c85259c671.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/4c94e9591b4049c09e347745e3343a52.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\4c94e9591b4049c09e347745e3343a52.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/bdc4295eec2643938ed243a29134b5ac.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\bdc4295eec2643938ed243a29134b5ac.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/4e31ce9c03ef4c0c932c2efa94406c69.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\4e31ce9c03ef4c0c932c2efa94406c69.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/44c1252189c54ab899ae13ed7fcf760b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\44c1252189c54ab899ae13ed7fcf760b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/12/16/3e0534c0d1a14c12878bc64c09497c20.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\12\16\3e0534c0d1a14c12878bc64c09497c20.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/about/595813.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\595813.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/about/596552.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596552.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/news/493166.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\news\493166.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/news/493162.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\news\493162.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/news/493161.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\news\493161.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/news/493160.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\news\493160.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/news/493157.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\news\493157.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/news/493156.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\news\493156.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/news/493143.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\news\493143.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2017/06/09/e75787586c744551ad1d480e5ecc621b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\09\e75787586c744551ad1d480e5ecc621b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/09/f04d4076ac2f47078aec7a3d1c97c840.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\09\f04d4076ac2f47078aec7a3d1c97c840.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/27/917ce047a2a4447dab548c9b6de45cd8.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\27\917ce047a2a4447dab548c9b6de45cd8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/17/a3f62a3027f04856a4b574fce28c7dba.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\17\a3f62a3027f04856a4b574fce28c7dba.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/26/3402252abc714185947b7b753ca6e9df.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\26\3402252abc714185947b7b753ca6e9df.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/19/f336daee41984adb9f337d3f17d26050.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\19\f336daee41984adb9f337d3f17d26050.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/28/eab3adb070ee4e00b672a515964f600a.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\28\eab3adb070ee4e00b672a515964f600a.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/aec23e2d76084101a6031ef9bdee295c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\aec23e2d76084101a6031ef9bdee295c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/d8aadca0114e49ab9f61479b16dde92f.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\d8aadca0114e49ab9f61479b16dde92f.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/1a9cd1b8cbfa4c9d8930141afa7a88ed.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\1a9cd1b8cbfa4c9d8930141afa7a88ed.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/20/df9ddb7d23d548da967886c6d0c40de7.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\20\df9ddb7d23d548da967886c6d0c40de7.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/19/8e764f573f0d446d8d13a86b1d5a1525.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\19\8e764f573f0d446d8d13a86b1d5a1525.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/15/f0e9e9d62c12412792d4179be9800115.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\15\f0e9e9d62c12412792d4179be9800115.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/15/aa44850a8aeb4cbd8315d1105b2c215c.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\15\aa44850a8aeb4cbd8315d1105b2c215c.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/15/a4e941b6a943434c991d030c9e326daa.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\15\a4e941b6a943434c991d030c9e326daa.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/15/d41ad86446254301a6fb271faa63aa87.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\15\d41ad86446254301a6fb271faa63aa87.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/06/2774c6b0c625407ba10a4206e5a08c00.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\06\2774c6b0c625407ba10a4206e5a08c00.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/15/ea168c1c502140ad903b385cd1a098fe.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\15\ea168c1c502140ad903b385cd1a098fe.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/03/24/179655a7a6184c56bcc777db61efdf02.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\24\179655a7a6184c56bcc777db61efdf02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/14b53454177c4c19b9e7ae8c7018b370.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\14b53454177c4c19b9e7ae8c7018b370.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/24/13f77621eb1b4bc0ba83c3f94fe27f44.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\24\13f77621eb1b4bc0ba83c3f94fe27f44.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/50bd9f15cd224d6db6885429a517ccca.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\50bd9f15cd224d6db6885429a517ccca.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/03/24/e3975c7903fe4d9fa85c325cd2fcbd62.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\24\e3975c7903fe4d9fa85c325cd2fcbd62.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/15/45221dc0e56e4b14bb87f518011fb659.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\15\45221dc0e56e4b14bb87f518011fb659.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/site/fang-wen-xue-zhe.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\site\fang-wen-xue-zhe.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/resources/web/img/cs_bg.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\cs_bg.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/22/020136b71cde4dba81793dc69fdf7c1b.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\22\020136b71cde4dba81793dc69fdf7c1b.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/08/04/f34396faa2d743c992d31ec7e96f9bfb.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\04\f34396faa2d743c992d31ec7e96f9bfb.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/04/ffed8f75ab3b44f5b62aabcbc586e51f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\04\ffed8f75ab3b44f5b62aabcbc586e51f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/8b78a9d106e641e6aeb9d5656786cd7c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\8b78a9d106e641e6aeb9d5656786cd7c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/a44c18d5cc984265b9211710e4ec0263.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\a44c18d5cc984265b9211710e4ec0263.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/5fed7fcd44ee4f69b69904451b9fd5dd.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\5fed7fcd44ee4f69b69904451b9fd5dd.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/i_search.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\i_search.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/11/05/3f6b21c442af4cffab7c766009d264bb.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\05\3f6b21c442af4cffab7c766009d264bb.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/14/2d7c81219a734aab8522494222c5984f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\14\2d7c81219a734aab8522494222c5984f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/564d3149c85e4431af20c1044c318cc6.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\564d3149c85e4431af20c1044c318cc6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/05/2dbebede668e4b368343d760dfa4221d.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\05\2dbebede668e4b368343d760dfa4221d.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/db9f1af607dd4d659ee6a01a1d726da4.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\db9f1af607dd4d659ee6a01a1d726da4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596608.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596608.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/11/05/b9a0a919e5e740c396ba94f702b1a8ed.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\05\b9a0a919e5e740c396ba94f702b1a8ed.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/0ea6890e980a48079a2dc4c4c36aca49.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\0ea6890e980a48079a2dc4c4c36aca49.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596600.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596600.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/11/05/29a83a4724fb40c39b921b9322835130.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\05\29a83a4724fb40c39b921b9322835130.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/b896a297dba8439e9f21e81990ae2345.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\b896a297dba8439e9f21e81990ae2345.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596590.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596590.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/about/596591.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596591.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/11/05/c8be69cf45e345228239ad2646d45bfd.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\05\c8be69cf45e345228239ad2646d45bfd.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/970396926ed343af9f042aff60937bdd.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\970396926ed343af9f042aff60937bdd.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/97f0228ea3ce4c69a79b6b593380a11c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\97f0228ea3ce4c69a79b6b593380a11c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596587.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596587.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/11/05/e8ce179925394d9c8d6b9e52c093dc25.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\05\e8ce179925394d9c8d6b9e52c093dc25.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/a0bcf8db5c9543698e3aca78c1bc020a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\a0bcf8db5c9543698e3aca78c1bc020a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596573.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596573.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/about/596794.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596794.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/11/05/e805781f410b46bdafa2285f29bf933a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\05\e805781f410b46bdafa2285f29bf933a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/7827b66c4e92448d960c3eed1f1eaeda.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\7827b66c4e92448d960c3eed1f1eaeda.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/5e764fd5238a4ca985da6ea34c9f16a4.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\5e764fd5238a4ca985da6ea34c9f16a4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596559.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596559.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/11/05/6f4ab02ab70b4dffb8091d4ded4a2ea5.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\05\6f4ab02ab70b4dffb8091d4ded4a2ea5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/def7cf47df1f4dc6baadde903e6ea666.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\def7cf47df1f4dc6baadde903e6ea666.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596557.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596557.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/about/596708.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596708.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/11/05/2e7a33bc2ec14f98b8015d4563945af9.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\05\2e7a33bc2ec14f98b8015d4563945af9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/50e3f48cc22242e2a0bb9da416755383.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\50e3f48cc22242e2a0bb9da416755383.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/ab6820c8e0d14abcabf4035c04d3cdd7.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\ab6820c8e0d14abcabf4035c04d3cdd7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596556.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596556.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/11/05/6ccb050a06c747ef8f893e4f8a21f97b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\05\6ccb050a06c747ef8f893e4f8a21f97b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/2b24390a115b4295903c6735d64b5c48.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\2b24390a115b4295903c6735d64b5c48.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/03/30/7c4df4281cbf4e239036b400738feff9.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\30\7c4df4281cbf4e239036b400738feff9.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/03/30/d982e7cb15474b50a8d3305a113eadb1.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\30\d982e7cb15474b50a8d3305a113eadb1.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/03/30/d3cd967010cc402f9c851442b3475718.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\30\d3cd967010cc402f9c851442b3475718.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/about/596631.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596631.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/c2340f0baa7c47d7a4ae1419ca68fbf0.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\c2340f0baa7c47d7a4ae1419ca68fbf0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/03/d26cf34362804261b8428857b2369447.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\03\d26cf34362804261b8428857b2369447.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596726.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596726.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/10/18/10648e01eac04e0abf991d53a2078f85.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\10\18\10648e01eac04e0abf991d53a2078f85.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/42645df742c44f43b7888648b63f9b12.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\42645df742c44f43b7888648b63f9b12.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/c1de4ca414d94193aaad37339cdb2dd2.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\c1de4ca414d94193aaad37339cdb2dd2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/f05af5a67a9a4dfc9494687c4355a2e2.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\f05af5a67a9a4dfc9494687c4355a2e2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/19b7a68b52c14171affd146a43f2151f.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\19b7a68b52c14171affd146a43f2151f.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/97e5b6902dd5421b8da31363c64c048d.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\97e5b6902dd5421b8da31363c64c048d.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/863b5924434943b686f90b280d44381b.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\863b5924434943b686f90b280d44381b.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/13e23dd44e5b44dbb88282cd04d5b70a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\13e23dd44e5b44dbb88282cd04d5b70a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/a8ea294b969441119447805a71f39e10.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\a8ea294b969441119447805a71f39e10.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/2d460424f03a4a4684803b2a8b97fd6a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\2d460424f03a4a4684803b2a8b97fd6a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596710.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596710.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/d68e8a102f1a41b38dc4d24eecf06de9.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\d68e8a102f1a41b38dc4d24eecf06de9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/cf0f88edf88a4bf0920c6839460e813c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\cf0f88edf88a4bf0920c6839460e813c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596701.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596701.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/2ddd03c512454d14966d6871cb62a23c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\2ddd03c512454d14966d6871cb62a23c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/7b18522951884d55ab92d9c9bd75891c.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\7b18522951884d55ab92d9c9bd75891c.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/10/09/8f4a215a5b824c7791df4723a42a4914.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\10\09\8f4a215a5b824c7791df4723a42a4914.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/08/13/b6c0583d18d04a2cad23a5c380d4c59e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\13\b6c0583d18d04a2cad23a5c380d4c59e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/03/2af848ab9a124b0f8f01e3fc51b07307.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\03\2af848ab9a124b0f8f01e3fc51b07307.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/03/24/c8d37993e8374fc79f231a0ffe931fa8.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\03\24\c8d37993e8374fc79f231a0ffe931fa8.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/about/596920.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596920.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/5e43831256c445b0880378145c0842c3.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\5e43831256c445b0880378145c0842c3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596868.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596868.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2017/04/05/0a7e7cac657b4eb6899651878f609b96.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\04\05\0a7e7cac657b4eb6899651878f609b96.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/07/12/90c1c25b8fef443488553be1477bc561.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\07\12\90c1c25b8fef443488553be1477bc561.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/07/12/83f9dd8dd14444629152481272dc111a.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\07\12\83f9dd8dd14444629152481272dc111a.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/07/12/277c28b4d1f941a6a66f794d04901391.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\07\12\277c28b4d1f941a6a66f794d04901391.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/76d4b46f40104206809fc6acf23906db.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\76d4b46f40104206809fc6acf23906db.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596861.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596861.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/666fda72372f4e878099ddb2fb2b33bb.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\666fda72372f4e878099ddb2fb2b33bb.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596952.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596952.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/f1c9301dc2224800949aa97bef0a9652.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\f1c9301dc2224800949aa97bef0a9652.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/fd26789a9f9d48ca8410e7e007c44678.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\fd26789a9f9d48ca8410e7e007c44678.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/f8b87634c12b4c9198287a5357db794c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\f8b87634c12b4c9198287a5357db794c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/29c90f6de0a2495c9a2ff016d356c8ba.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\29c90f6de0a2495c9a2ff016d356c8ba.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596901.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596901.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/35a06af5c2044c15934b602716b74983.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\35a06af5c2044c15934b602716b74983.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/0a659eb7d9794b9689cc25193215d39f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\0a659eb7d9794b9689cc25193215d39f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596826.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596826.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/50709f42c81a47338acaa2454d30dbc1.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\50709f42c81a47338acaa2454d30dbc1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/about/596909.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\about\596909.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/98aaa9f7f62c4c46baa691cf1b3d3f0b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\98aaa9f7f62c4c46baa691cf1b3d3f0b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/595559.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\595559.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/11/b4d2cd80e17e482cbfcdf46ae1dffb70.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\11\b4d2cd80e17e482cbfcdf46ae1dffb70.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/resources/web/img/ds_bg02.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\resources\web\img\ds_bg02.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/a66200ac76b84159abd345cdc990b5d1.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\a66200ac76b84159abd345cdc990b5d1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/5a9f9f2acf0a43949de8b90203023403.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\5a9f9f2acf0a43949de8b90203023403.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/9bf005e7b1224269ac10e0ab9b46bdee.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\9bf005e7b1224269ac10e0ab9b46bdee.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/bd83a82deb6f40eba928840441ebb877.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\bd83a82deb6f40eba928840441ebb877.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/91ee31f388f74acb9099e38b5238d22a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\91ee31f388f74acb9099e38b5238d22a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/052f646c9e0d4434a631adb24cb2e35c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\052f646c9e0d4434a631adb24cb2e35c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/816f17be044348eca31f88710cf167e3.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\816f17be044348eca31f88710cf167e3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/5064824f560e4f9991da933f8df016bc.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\5064824f560e4f9991da933f8df016bc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/1f01203cd0014f148e72e15e76bc45d7.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\1f01203cd0014f148e72e15e76bc45d7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/28/75cd428d0d6647f6ae8ba39788c80165.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\28\75cd428d0d6647f6ae8ba39788c80165.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/28/55581db2345e47199a241ebe9f6dd1a4.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\28\55581db2345e47199a241ebe9f6dd1a4.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/28/3a51b83c2a7e4b12baec8c3b32d84d94.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\28\3a51b83c2a7e4b12baec8c3b32d84d94.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/28/dae6b41e79cb403396f375f5945225e1.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\28\dae6b41e79cb403396f375f5945225e1.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/261fa7b952d54ae09db73d1cc7a1f14c.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\261fa7b952d54ae09db73d1cc7a1f14c.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/61c657ab75974177af61c58176de0e8c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\61c657ab75974177af61c58176de0e8c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/e8cc7f2cc56a4be78c1fdb2cabad008c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\e8cc7f2cc56a4be78c1fdb2cabad008c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/75f9feee54cd4db28b409907e551a07f.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\75f9feee54cd4db28b409907e551a07f.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/e212e728d2e743ad831ae5c3104324a5.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\e212e728d2e743ad831ae5c3104324a5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/c70f959cf2cb4339b3b7119163f5437b.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\c70f959cf2cb4339b3b7119163f5437b.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/4245f0601d7c4f4da8e978b2f9f51ee8.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\4245f0601d7c4f4da8e978b2f9f51ee8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/ed32a049557841219501e245da02dfff.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\ed32a049557841219501e245da02dfff.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/80c4eba0237e4e4e9f9aeb6d873d418d.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\80c4eba0237e4e4e9f9aeb6d873d418d.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/23/3b9b5c6cda164cc5a27f5a5c78da3ab6.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\23\3b9b5c6cda164cc5a27f5a5c78da3ab6.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/20/4990d3f957954c98a091012b697c89b1.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\20\4990d3f957954c98a091012b697c89b1.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/20/3a999935a2644fe18659ccf483008df5.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\20\3a999935a2644fe18659ccf483008df5.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/20/21712188f96942189cf610c1a93e4a80.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\20\21712188f96942189cf610c1a93e4a80.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/20/dc0c4c7207f54ff9837bb9576790a66d.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\20\dc0c4c7207f54ff9837bb9576790a66d.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2017/06/20/dcec936be3b74d8d96bde5a4d85767eb.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\20\dcec936be3b74d8d96bde5a4d85767eb.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/20/c7f6837856614180bfd314cc2806360a.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\20\c7f6837856614180bfd314cc2806360a.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2017/06/16/a514c15506e14ec2abe353bd6340b6cf.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\16\a514c15506e14ec2abe353bd6340b6cf.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/16/2586b3ef012247d49bfb6b2283a8d954.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\16\2586b3ef012247d49bfb6b2283a8d954.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/16/c454a4e63a5f4b889af9b286290c3005.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\16\c454a4e63a5f4b889af9b286290c3005.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/upload/images/2017/06/15/f551336429154f05ad5addd1244c2e8f.gif
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2017\06\15\f551336429154f05ad5addd1244c2e8f.gif
+Content Type: image/gif
+
+Uri: http://www.detaoma.com/site/apply.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\site\apply.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/600467.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\600467.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/6b357e5879504141ad254892f3fbbd7c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\6b357e5879504141ad254892f3fbbd7c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/d3e775d7b313422cb57ad0e381922c49.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\d3e775d7b313422cb57ad0e381922c49.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/626f5392d9a34890979ab4e8a739e991.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\626f5392d9a34890979ab4e8a739e991.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/3c21f81ba08b4035a2c5cfa74ed52aa6.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\3c21f81ba08b4035a2c5cfa74ed52aa6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/8d49369fa0a94cc599a0779f94114573.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\8d49369fa0a94cc599a0779f94114573.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/598747.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\598747.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/8228706c079c411ab8e577b948bd2c08.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\8228706c079c411ab8e577b948bd2c08.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/9ac69b4b530d48578ce5f6b27722f2bc.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\9ac69b4b530d48578ce5f6b27722f2bc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/fef57b4603aa44b39589d9169f970ffe.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\fef57b4603aa44b39589d9169f970ffe.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/1c6a0f366a6d4ff4bbbf668ee97a712e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\1c6a0f366a6d4ff4bbbf668ee97a712e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/cf089b45cc0f433b959385efd2cb6d22.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\cf089b45cc0f433b959385efd2cb6d22.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/fe86e266fd0543bbb397572efc51bbb3.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\fe86e266fd0543bbb397572efc51bbb3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/2064450f36e2447fbf341b5077184e91.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\2064450f36e2447fbf341b5077184e91.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/f327e6c2378f4ea68875804675c71bbc.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\f327e6c2378f4ea68875804675c71bbc.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/8c58f424f1a04130a951f1523d859a7d.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\8c58f424f1a04130a951f1523d859a7d.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/b07f0623046d4b8188d9efd0cb3244f0.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\b07f0623046d4b8188d9efd0cb3244f0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/731bc7592f1047ee8de4087b7e1f87f4.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\731bc7592f1047ee8de4087b7e1f87f4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/2477d7ebcf184af5a9fe66de2253cca6.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\2477d7ebcf184af5a9fe66de2253cca6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/19bf5bfa1ae842d3b2143ccca4f063cd.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\19bf5bfa1ae842d3b2143ccca4f063cd.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/596991.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596991.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/4bd04301144e4bd4a064e37b5ad891d1.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\4bd04301144e4bd4a064e37b5ad891d1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/eeb9adbc2f414471b9e0bba7ef2d8008.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\eeb9adbc2f414471b9e0bba7ef2d8008.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/071740716ea7436b97271a8b0be32a0d.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\071740716ea7436b97271a8b0be32a0d.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/cc683412f53a469c80a4e943510752e5.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\cc683412f53a469c80a4e943510752e5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/a0a72192a514431faa9af92a0cec8bd2.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\a0a72192a514431faa9af92a0cec8bd2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/7cf9ecdf65ef41e09dff97dd8b541b0a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\7cf9ecdf65ef41e09dff97dd8b541b0a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/b59dc5804ada41538baa32cab4a23e2a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\b59dc5804ada41538baa32cab4a23e2a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/b5d84c1824e94f0f989d906adfddab47.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\b5d84c1824e94f0f989d906adfddab47.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/bcf548654a5347e7858ad64c1fb8c8ed.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\bcf548654a5347e7858ad64c1fb8c8ed.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/a750ed0991a0401487d41b0f8aa68c7b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\a750ed0991a0401487d41b0f8aa68c7b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/596670.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596670.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/596937.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\596937.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/12/d6a87df335a4476b9d2831e723373546.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\12\d6a87df335a4476b9d2831e723373546.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/65fa0eb8d250465c82c67dc59f3e408b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\65fa0eb8d250465c82c67dc59f3e408b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/458535abd5b64f859c45b577505d980e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\458535abd5b64f859c45b577505d980e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/facbc082d0194a19bb94715e6d5008d3.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\facbc082d0194a19bb94715e6d5008d3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/6324d1b58b1541449cf69098f1cbc3d8.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\6324d1b58b1541449cf69098f1cbc3d8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/600498.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\600498.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/4d5217a2558f4390b346b1fa8e5d3df7.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\4d5217a2558f4390b346b1fa8e5d3df7.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/7b0ed6475b3f402a9e218dd921ecb29e.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\7b0ed6475b3f402a9e218dd921ecb29e.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/5bf850e78dc1494d85b0241010429956.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\5bf850e78dc1494d85b0241010429956.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/03b26998250d4603879e32832aa10d38.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\03b26998250d4603879e32832aa10d38.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/d63f4dbf1abe478585d69131c20f424b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\d63f4dbf1abe478585d69131c20f424b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/2924a81a74074e4ca72c40189ef496fa.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\2924a81a74074e4ca72c40189ef496fa.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/f4b08444230f4a9cabaec5c4dba91d4a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\f4b08444230f4a9cabaec5c4dba91d4a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/5b849c89049a4b5599cf1f9e8b9213a1.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\5b849c89049a4b5599cf1f9e8b9213a1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/01c5b74212434eb2b8f159994ef240d9.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\01c5b74212434eb2b8f159994ef240d9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/598768.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\598768.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/58aeecc6a4a74e5ebada2fb2a6610e67.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\58aeecc6a4a74e5ebada2fb2a6610e67.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/76bbe95383ff4eaeba76970b45bd803c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\76bbe95383ff4eaeba76970b45bd803c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/b156d73f529941ff961156d481e5ae3b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\b156d73f529941ff961156d481e5ae3b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/708792b630a24797a9d8dbf50f5fd0dd.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\708792b630a24797a9d8dbf50f5fd0dd.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/e742b0a93f35471cae97b2206ecd12a9.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\e742b0a93f35471cae97b2206ecd12a9.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/da347a73eaf34758bc82fc27780f779a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\da347a73eaf34758bc82fc27780f779a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/991409099cd74e20b465fb7043023394.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\991409099cd74e20b465fb7043023394.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/600462.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\600462.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/34c895987f214351a4124971e9bdbb01.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\34c895987f214351a4124971e9bdbb01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/a352b248d29f474b9cec651e7f23f735.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\a352b248d29f474b9cec651e7f23f735.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/598863.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\598863.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/01b37b7615a14e83bb57fa309f89831c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\01b37b7615a14e83bb57fa309f89831c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/598999.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\598999.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/16/569379c9861c411f838a6aec4b06053c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\16\569379c9861c411f838a6aec4b06053c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/934568f690454e4f9d418c1b6913723c.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\934568f690454e4f9d418c1b6913723c.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/8c3b2f6c76114786b58ce6a3d419e8b8.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\8c3b2f6c76114786b58ce6a3d419e8b8.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/fe3042d540de49a4b1f793b1c5607cf6.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\fe3042d540de49a4b1f793b1c5607cf6.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/18948e29d32b441393d7d2897310725a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\18948e29d32b441393d7d2897310725a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/600291.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\600291.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/10/17/762a73cb57784137bb50de2c9ed37e9a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\10\17\762a73cb57784137bb50de2c9ed37e9a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/10/17/7f5d4f648ae0458f8f5a0a7b324e4cda.png
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\10\17\7f5d4f648ae0458f8f5a0a7b324e4cda.png
+Content Type: image/png
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/9e84e71815c84bfd9426071e1d79c00b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\9e84e71815c84bfd9426071e1d79c00b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/f7bccd9fd8944e5c94a03fa9ade736e0.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\f7bccd9fd8944e5c94a03fa9ade736e0.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/fb6f31ad02c44f98b438ada36b5b3ec2.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\fb6f31ad02c44f98b438ada36b5b3ec2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/491dc271e2bf466db517c0d678bd667b.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\491dc271e2bf466db517c0d678bd667b.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/598900.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\598900.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/product/598899.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\598899.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/15/0b07a8b71bc0449d99eddc135f03e4e2.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\15\0b07a8b71bc0449d99eddc135f03e4e2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/839d333691b348bb990c5c35bf2e9151.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\839d333691b348bb990c5c35bf2e9151.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/7ce7075fa8f94f1e85a358e546e890c4.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\7ce7075fa8f94f1e85a358e546e890c4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/effbd4ce6b294af98971d3ab482e8860.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\effbd4ce6b294af98971d3ab482e8860.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/f56a526a3dc34d7480a2535c62e57395.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\f56a526a3dc34d7480a2535c62e57395.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/894fc84ebdc64fae9ef8accb3589fe36.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\894fc84ebdc64fae9ef8accb3589fe36.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/91d8c1ea6c714644a619882204eb64ae.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\91d8c1ea6c714644a619882204eb64ae.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/08b03c461b554801a835b4db65b0281a.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\08b03c461b554801a835b4db65b0281a.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/08/17/d4d2a2a64eca4bba8a68592534b3c0af.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\17\d4d2a2a64eca4bba8a68592534b3c0af.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/a8978f4b3d2747f2a0762e993d8f78b3.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\a8978f4b3d2747f2a0762e993d8f78b3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/468efd3c392a45a6be6e0e968e63af2f.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\468efd3c392a45a6be6e0e968e63af2f.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/53219b514b7f40d58c4710bb4f6f3304.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\53219b514b7f40d58c4710bb4f6f3304.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/upload/images/2016/11/11/f6f1faf7f04c49b5a437db80a0b96cac.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\11\11\f6f1faf7f04c49b5a437db80a0b96cac.jpg
+Content Type: image/jpeg
+
+Uri: http://www.detaoma.com/product/599025.htm
+File Name: c:\Downloaded Web Sites\www.detaoma.com\product\599025.htm
+Content Type: text/html
+
+Uri: http://www.detaoma.com/upload/images/2016/08/05/30d60a4cad7e474c808c45930893e9b1.jpg
+File Name: c:\Downloaded Web Sites\www.detaoma.com\upload\images\2016\08\05\30d60a4cad7e474c808c45930893e9b1.jpg
+Content Type: image/jpeg
+

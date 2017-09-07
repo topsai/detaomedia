@@ -16,3 +16,7 @@ def test(request):
 
 def master(request):
     return render(request, 'master.html')
+
+
+def product(request):
+    return render(request, 'product.html')

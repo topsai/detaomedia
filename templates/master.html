@@ -1,101 +1,227 @@
-{% extends "base.html" %}
-{% block style %}
-    <style>
-        .master_bigfount {
-            text-align: center;
-        }
-
-        .master_bigfount h1 {
-            font-size: 80px;
-            display: inline;
-            color: #A5132A;
-        }
-
-        .master_bigfount span {
-            vertical-align: middle;
-            font-size: 26px;
-            color: #A5132A;
-        }
-
-        .master {
-            padding: 10px;
-            position: relative;
-        }
-
-        .master img {
-            width: 100%;
-        }
-
-        {
-            position: absolute
-        ;
-            top: 228px
-        ;
-            bottom: 10px
-        ;
-            left: 10px
-        ;
-            right: 10px
-        ;
-        }
-    </style>
-{% endblock %}
+﻿{% extends "base.html" %}
 {% block center %}
-    <div style="width: 100%; background-image: url('/static/images/about_bg02_02.jpg'); text-align: center;padding: 40px 0">
-        <p style="font-size: 40px; color: white">德稻大师</p>
+    <div class="full_section color_01 n_section dtjy01 dashi01 mobileSlideBlock">
+        <div class="box">
+            <div class="hd">
+                <div class="wrap">
+                    <h2 class="title"> 德&nbsp; 稻&nbsp; 传&nbsp; 媒&nbsp; </h2>
+                    <div class="text">
+                        <p>汇聚全球500余位行业大师<br>专注提供行业领先创新教育内容和综合服务</p>
+                    </div>
+                </div>
+            </div>
+            <div class="bd menu_bd">
+                <div class="menus">
+                    <div class="wrap">
+                        <ul class=" fix">
+                            <li class=""><a href="guan-yu-wo-men.htm#jump">关于我们</a></li>
+                            <li class="cur"><a href="de-dao-da-shi.htm#jump">德稻大师</a></li>
+                            <li class=""><a href="de-dao-li-cheng.htm#jump">德稻历程</a></li>
+                            <li class=""><a href="jiao-yu-yan-jiu-yuan.htm#jump">教育研究院</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-4 master_bigfount">
-                <h1>63<span>&nbsp;&nbsp;个</span></h1>
-                <p>设计、时尚、艺术、商业、动漫、影视等领域</p>
-            </div>
-            <div class="col-lg-4 master_bigfount">
-                <h1>500 <span>&nbsp;&nbsp;位</span></h1>
-                <p>业界专家与学界领袖</p>
-            </div>
-            <div class="col-lg-4 master_bigfount">
-                <h1>3360 <span>&nbsp;&nbsp;+</span></h1>
-                <p>顶级行业奖项获得者</p>
-            </div>
 
+    <div class="full_section color_01 n_section dashi03 dt_bg3">
+        <div class="jump" id="jump"></div>
+        <div class="wrap">
+            <div class="widget-area">
+                <ul class="fix">
+                    <li>
+                        <div class="box b1">
+                            <span class="s1 odometer1">63</span>
+                            <span class="s2">个</span>
+                        </div>
+                        <div class="p">
+                            设计、时尚、艺术、商业、动漫、影视等领域
+                        </div>
+                    </li>
+                    <li>
+                        <div class="box b1">
+                            <span class="s1 odometer2">500</span>
+                            <span class="s2">位</span>
+                        </div>
+                        <div class="p">
+                            业界专家与学界领袖
+                        </div>
+                    </li>
+                    <li>
+                        <div class="box b1">
+                            <span class="s1 odometer3">3360</span>
+                            <span class="s2">+</span>
+                        </div>
+                        <div class="p">
+                            顶级行业奖项获得者
+                        </div>
+                    </li>
+                </ul>
+            </div>
         </div>
-        <div class="row">
-            <div class="col-lg-4">
-                <select style="margin: 20px 0; border: black 1px solid;width: 90%;height: 40px;">
-                    <option value="volvo">Volvo</option>
-                    <option value="saab">Saab</option>
-                    <option value="opel">Opel</option>
-                    <option value="audi">Audi</option>
-                </select>
+    </div>
+    <div class="full_section color_01 n_section dashi04 dt_bg3">
+        <div class="wrap">
+            <div class="dt_search">
+                <form action="" class="dt_form fix" id="newsForm">
+                    <input type="text" class="inp" name="keywords" id="keywords">
+                    <input type="hidden" class="inp" name="page_index" value="1">
+                    <input type="hidden" class="inp" name="page_size" value="6">
+                    <input name="fieldId" type="hidden" value="">
+                    <input name="nationId" type="hidden" value="">
+                    <input name="titleId" type="hidden" value="">
+                    <input name="prizeId" type="hidden" value="">
+                    <button class="_btn" id="doSubmit" type="submit"><i></i></button>
+                </form>
             </div>
-            <div class="col-lg-4">
-                <select style="margin: 20px 0; border: black 1px solid;width: 90%;height: 40px;">
-                    <option value="volvo">Volvo</option>
-                    <option value="saab">Saab</option>
-                    <option value="opel">Opel</option>
-                    <option value="audi">Audi</option>
-                </select>
+            <div class="dt_sele_ser">
+                <ul class="fix">
+                    <li>
+                        <div class="sb">
+                            <span class="_t">领域</span>
+                            <span class="_val">全部</span>
+                            <input id="fieldId" type="hidden" value="">
+                        </div>
+                        <div class="_options" id="sfieldId">
+                            <a href="javascript:;" id="">全部</a>
+                            <a href="javascript:;" id="1876">设计</a>
+                            <a href="javascript:;" id="1875">时尚</a>
+                            <a href="javascript:;" id="1874">艺术</a>
+                            <a href="javascript:;" id="1967">商业</a>
+                            <a href="javascript:;" id="1968">动漫</a>
+                            <a href="javascript:;" id="1969">影视</a>
+                            <a href="javascript:;" id="2506">教育</a>
+                            <a href="javascript:;" id="2507">金融</a>
+                            <a href="javascript:;" id="2508">信息科技</a>
+                            <a href="javascript:;" id="2509">先进制造</a>
+                            <a href="javascript:;" id="2510">环境与能源</a>
+                            <a href="javascript:;" id="2511">科学技术</a>
+                            <a href="javascript:;" id="2512">健康生活</a>
+                            <a href="javascript:;" id="2513">新闻出版</a>
+                            <a href="javascript:;" id="1970">其他</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="sb">
+                            <span class="_t">国籍</span>
+                            <span class="_val">全部</span>
+                            <input id="nationId" type="hidden" value="">
+                        </div>
+                        <div class="_options" id="snationId">
+                            <a href="javascript:;" id="">全部</a>
+                            <a href="javascript:;" id="2095">奥地利</a>
+                            <a href="javascript:;" id="2411">澳大利亚</a>
+                            <a href="javascript:;" id="2093">巴西</a>
+                            <a href="javascript:;" id="2011">比利时</a>
+                            <a href="javascript:;" id="2033">丹麦</a>
+                            <a href="javascript:;" id="1962">德国</a>
+                            <a href="javascript:;" id="2317">俄罗斯</a>
+                            <a href="javascript:;" id="1961">法国</a>
+                            <a href="javascript:;" id="2516">芬兰</a>
+                            <a href="javascript:;" id="2320">菲律宾</a>
+                            <a href="javascript:;" id="2009">荷兰</a>
+                            <a href="javascript:;" id="1963">韩国</a>
+                            <a href="javascript:;" id="1966">加拿大</a>
+                            <a href="javascript:;" id="2102">克罗地亚</a>
+                            <a href="javascript:;" id="2104">卢森堡</a>
+                            <a href="javascript:;" id="1873">美国</a>
+                            <a href="javascript:;" id="2016">马来西亚</a>
+                            <a href="javascript:;" id="2339">墨西哥</a>
+                            <a href="javascript:;" id="2515">挪威</a>
+                            <a href="javascript:;" id="1964">日本</a>
+                            <a href="javascript:;" id="1983">瑞士</a>
+                            <a href="javascript:;" id="2517">塞浦路斯</a>
+                            <a href="javascript:;" id="2010">西班牙</a>
+                            <a href="javascript:;" id="2514">新加坡</a>
+                            <a href="javascript:;" id="1994">新西兰</a>
+                            <a href="javascript:;" id="1993">以色列</a>
+                            <a href="javascript:;" id="1872">英国</a>
+                            <a href="javascript:;" id="2331">意大利</a>
+                            <a href="javascript:;" id="1871">中国</a>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="tc">
+                            <a href="..\site\lian-xi-de-dao.htm" title="了解更多大师信息，请联系我们"
+                               class="m_detail">了解更多大师信息，请联系我们</a>
+                        </div>
+                    </li>
+                </ul>
             </div>
-            <div class="col-lg-4">
-                <select style="margin: 20px 0; border: black 1px solid;width: 90%;height: 40px;">
-                    <option value="volvo">Volvo</option>
-                    <option value="saab">Saab</option>
-                    <option value="opel">Opel</option>
-                    <option value="audi">Audi</option>
-                </select>
+            <div class="pic_list">
+                <ul class="row" id="container">
+                    <li class="span-4 smal-12">
+                        <div class="box pr oh">
+                            <a href="/about/596590.htm" class="rect-716 imgZoom" target="_blank">
+                                <img src="/static/upload/images/2016/08/13/970396926ed343af9f042aff60937bdd.jpg" alt="博恩"
+                                     class="_full">
+                                <div class="tit el pa transition">
+                                    <span class="_t">博恩</span>
+                                    <span class="date">Michel de Boer</span>
+                                </div>
+                            </a>
+                            <a href="/about/596590.htm" class="pa _mask" target="_blank">
+                    <span class="cover">
+                      <h3 class="_title el">博恩</h3>
+                      <div class="date">Michel de Boer</div>
+                      <div class="p">国际著名设计大师，MDB Associates公司的创始人及创意总监。两度获得最具权威的D&amp;AD金奖</div>
+                    </span>
+
+                                <div class="tc"><span class="m_detail">了解更多</span></div>
+
+                            </a>
+                        </div>
+                    </li>
+                    <li class="span-4 smal-12">
+                        <div class="box pr oh">
+                            <a href="/about/596794.htm" class="rect-716 imgZoom" target="_blank">
+                                <img src="/static/upload/images/2016/08/16/5e764fd5238a4ca985da6ea34c9f16a4.jpg" alt="葛丽婧"
+                                     class="_full">
+                                <div class="tit el pa transition">
+                                    <span class="_t">葛丽婧</span>
+                                    <span class="date">Jane Gottelier</span>
+                                </div>
+                            </a>
+                            <a href="/about/596794.htm" class="pa _mask" target="_blank">
+                    <span class="cover">
+                      <h3 class="_title el">葛丽婧</h3>
+                      <div class="date">Jane Gottelier</div>
+                      <div class="p">英国法尔茅茨大学时装设计及运动服装设计本科课程主任，针织时装品牌Artwork创始人之一</div>
+                    </span>
+
+                                <div class="tc"><span class="m_detail">了解更多</span></div>
+
+                            </a>
+                        </div>
+                    </li>
+                    <li class="span-4 smal-12">
+                        <div class="box pr oh">
+                            <a href="/about/596573.htm" class="rect-716 imgZoom" target="_blank">
+                                <img src="/static/upload/images/2016/08/12/7827b66c4e92448d960c3eed1f1eaeda.jpg" alt="葛特立"
+                                     class="_full">
+                                <div class="tit el pa transition">
+                                    <span class="_t">葛特立</span>
+                                    <span class="date">Patrick Gottelier</span>
+                                </div>
+                            </a>
+                            <a href="/about/596573.htm" class="pa _mask" target="_blank">
+                    <span class="cover">
+                      <h3 class="_title el">葛特立</h3>
+                      <div class="date">Patrick Gottelier</div>
+                      <div class="p">国际著名时装设计和性能运动装设计大师，英国法尔茅斯大学设计系主任，针织时装时尚品牌Artwork创始</div>
+                    </span>
+
+                                <div class="tc"><span class="m_detail">了解更多</span></div>
+
+                            </a>
+                        </div>
+                    </li>
+                </ul>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-4 master">
-                <img src="http://www.detaoma.com/upload/images/2016/08/11/7e85fbf55291477da45caa1f6ff1e300.jpg"></img>
-                <div style="background-color: red"></div>
-            </div>
-            <div class="col-lg-4 master">
-                <img src="http://www.detaoma.com/upload/images/2016/08/11/7e85fbf55291477da45caa1f6ff1e300.jpg"></img>
-            </div>
-            <div class="col-lg-4 master">
-                <img src="http://www.detaoma.com/upload/images/2016/08/11/7e85fbf55291477da45caa1f6ff1e300.jpg"></img>
+            <div class="pj-lb-more" id="st_data_more">
+                <div class="loading"></div>
+                <a href="javascript:;">加载中......</a>
             </div>
         </div>
     </div>
