@@ -1,6 +1,7 @@
 from django.shortcuts import render
 import subprocess
 
+
 # Create your views here.
 def index(request):
     return render(request, 'index.html')
@@ -18,8 +19,11 @@ def master(request):
     return render(request, 'master.html')
 
 
-def product(request):
-    return render(request, 'product.html')
+def product(request, i):
+    if not i:
+        i = '1'
+    if i in ['1', '2', '3', '4', '5']:
+        return render(request, 'product{}.html'.format(i))
 
 
 def update(request):

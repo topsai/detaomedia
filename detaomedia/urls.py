@@ -23,5 +23,5 @@ urlpatterns = [
     url(r'^about/$', about),
     url(r'^test/$', test),
     url(r'^master/$', master),
-    url(r'^product/$', product),
+    url(r'^product/(\d?)', product),
 ]
