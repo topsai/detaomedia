@@ -1,11 +1,11 @@
 ﻿{% extends "base.html" %}
 {% block center %}
-    <div class="full_section color_02 n_section jycp01 zygj01 mobileSlideBlock">
+    <div class="full_section color_01 n_section jycp01 zygj01 mobileSlideBlock">
         <div class="box">
             <div class="hd">
                 <div class="wrap">
                     <h2 class="title"> 产&nbsp; 品&nbsp; 中&nbsp; 心&nbsp; </h2>
-                    {#       <div class="text">#}
+                    {#    color: #A5132A;   <div class="text">#}
                     {#        <p>德稻教育面向高校、教育机构以及个人<br>专注提供设计 时尚 艺术 商业 动漫 影视六大领域的创新教育内容和综合服务</p>#}
                     {#       </div>#}
                 </div>
@@ -14,11 +14,17 @@
                 <div class="menus">
                     <div class="wrap">
                         <ul class=" fix">
-                            <li class="cur"><a href="#">德稻知识资本</a></li>
-                            <li class=""><a href="#">全球知识资本企业家俱乐部</a></li>
-                            <li class=""><a href="#">德稻演讲</a></li>
-                            <li class=""><a href="#">德稻知识资本创新中心</a></li>
-                            <li class=""><a href="#">德稻特色小镇</a></li>
+
+                            <li {% if request.path == "/product/" %} class="cur" {% endif %}><a
+                                    href="/product/">德稻知识资本</a></li>
+                            <li {% if request.path == "/product/2/" %} class="cur" {% endif %}><a href="/product/2/">全球知识资本企业家俱乐部</a>
+                            </li>
+                            <li {% if request.path == "/product/3/" %} class="cur" {% endif %}><a href="/product/3/">德稻演讲</a>
+                            </li>
+                            <li {% if request.path == "/product/4/" %} class="cur" {% endif %}><a href="/product/4/">德稻知识资本创新中心</a>
+                            </li>
+                            <li {% if request.path == "/product/5/" %} class="cur" {% endif %}><a href="/product/5/">德稻特色小镇</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -27,37 +33,44 @@
         <div class="index_imgBox">
             <div class="wrap">
                 <ul class="fix">
-                    <li class="cur"><a href="/product/1/"><h3 class="s_title">德稻知识资本</h3>
-                        <div class="inline-box">
-                            <div class="img">
-                                <img src="/static/upload/images/2016/12/06/f6510e1cd35c4b9aa2a633ddf20b6dae.jpg"
-                                     alt="专业共建">
-                            </div>
-                            <div class="cover">
-                                <div class="cover_con">
-                                    <div class="s_text">
-                                        <p>协同高校开展<br>校企合作学历教育项目</p>
+
+                    <li>
+                        <a href="/product/">
+                            <h3 class="s_title">德稻知识资本</h3>
+                            <div class="inline-box">
+                                <div class="img">
+                                    <img src="/static/upload/images/2016/12/06/f6510e1cd35c4b9aa2a633ddf20b6dae.jpg"
+                                         alt="专业共建">
+                                </div>
+                                <div class="cover">
+                                    <div class="cover_con">
+                                        <div class="s_text">
+                                            <p>协同高校开展<br>校企合作学历教育项目</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </a></li>
-                    <li class=""><a href="/product/2/"><h3 class="s_title">全球知识资本企业家俱乐部</h3>
-                        <div class="inline-box">
-                            <div class="img">
-                                <img src="/static/upload/images/2016/11/15/dedfe33d4b9e40d2b8c23733579da636.jpg"
-                                     alt="课程输出">
-                            </div>
-                            <div class="cover">
-                                <div class="cover_con">
-                                    <div class="s_text">
-                                        <p>行业大师领衔设计<br>国际先进课程</p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/product/2/">
+                            <h3 class="s_title">全球知识资本企业家俱乐部</h3>
+                            <div class="inline-box">
+                                <div class="img">
+                                    <img src="/static/upload/images/2016/11/15/dedfe33d4b9e40d2b8c23733579da636.jpg"
+                                         alt="课程输出">
+                                </div>
+                                <div class="cover">
+                                    <div class="cover_con">
+                                        <div class="s_text">
+                                            <p>行业大师领衔设计<br>国际先进课程</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                    </a></li>
-                    <li class=""><a href="/product/3/"><h3 class="s_title">德稻演讲</h3>
+                        </a>
+                    </li>
+                    <li><a href="/product/3/"><h3 class="s_title">德稻演讲</h3>
                         <div class="inline-box">
                             <div class="img">
                                 <img src="/static/upload/images/2016/11/15/4e559038a34f43c388e00a7c1f306d86.jpg"
@@ -72,7 +85,7 @@
                             </div>
                         </div>
                     </a></li>
-                    <li class=""><a href="/product/4/"><h3 class="s_title">德稻知识资本创新中心</h3>
+                    <li><a href="/product/4/"><h3 class="s_title">德稻知识资本创新中心</h3>
                         <div class="inline-box">
                             <div class="img">
                                 <img src="/static/upload/images/2016/11/15/0224aa82c51247aba0a83e0ac529e1c2.jpg"
@@ -87,7 +100,7 @@
                             </div>
                         </div>
                     </a></li>
-                    <li class=""><a href="/product/5/"><h3 class="s_title">德稻特色小镇</h3>
+                    <li><a href="/product/5/"><h3 class="s_title">德稻特色小镇</h3>
                         <div class="inline-box">
                             <div class="img">
                                 <img src="/static/upload/images/2016/11/15/2a7b8da6077f445e9ea0747c86e1d791.jpg"
@@ -106,7 +119,7 @@
             </div>
         </div>
     </div>
-    <div class="full_section color_02 n_section n_section_a2 zygj02">
+    <div class="full_section color_02 n_section n_section_a2">
         <a class="jump" id="jump" name="jump"></a>
         <div class="box">
             <div class="hd">
