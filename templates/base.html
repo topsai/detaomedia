@@ -62,7 +62,7 @@
                         <li {% if request.path == "/about/" %} class="cur" {% endif %}><a href="/about/">德稻传媒</a></li>
                         <li {% if request.path == "/master/" %} class="cur" {% endif %}><a href="/master/">德稻大师</a></li>
                         <li {% if request.path == "/product/" %} class="cur" {% endif %}><a href="/product/">产品中心</a></li>
-                        <li class=""><a href="">合作中心</a></li>
+                        <li {% if request.path == "/partner/" %} class="cur" {% endif %}><a href="/partner/">合作中心</a></li>
                         <li class=""><a href="">传媒动态</a></li>
                     </ul>
                 </nav>
@@ -82,7 +82,7 @@
        相关链接
       </div>
       <div class="dd">
-       <a href="" target="_blank">加入我们</a>
+       <a href="/joinus/" target="_blank">加入我们</a>
        <a href="" target="_blank">媒体资料</a>
        <a href="" target="_blank">联系我们</a>
        <a href="" target="_blank">站点地图</a>
@@ -151,4 +151,5 @@
     seajs.use('js/channels_intro');
     seajs.use('js/about.js?v=2');
     seajs.use('js/educateProducts');
+    //seajs.use('js/join');
 </script>

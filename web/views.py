@@ -37,3 +37,11 @@ def update(request):
         #     log.debug('更新成功', p.stdout.read())
         # else:
         #     log.debug('更新失败', p.stderr.read())
+
+
+def partner(requesr):
+    return render(requesr, "partner.html")
+
+
+def joinus(requesr):
+    return render(requesr, "joinus.html")
