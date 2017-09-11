@@ -1,4 +1,8 @@
 ﻿{% extends "base.html" %}
+
+{% block style %}
+    <link href ="/static/bootstarp/assets/css/bootstrap.min.css" rel="stylesheet">
+{% endblock %}
 {% block center %}
     <div class="full_section color_01 n_section jycp01 zygj01 mobileSlideBlock">
         <div class="box">
@@ -15,15 +19,15 @@
                     <div class="wrap">
                         <ul class=" fix">
 
-                            <li {% if request.path == "/product/" %} class="cur" {% endif %}><a
+                            <li {% if request.path == "/product/#jump" %} class="cur" {% endif %}><a
                                     href="/product/">德稻知识资本</a></li>
-                            <li {% if request.path == "/product/2/" %} class="cur" {% endif %}><a href="/product/2/">全球知识资本企业家俱乐部</a>
+                            <li {% if request.path == "/product/2/" %} class="cur" {% endif %}><a href="/product/2/#jump">全球知识资本企业家俱乐部</a>
                             </li>
-                            <li {% if request.path == "/product/3/" %} class="cur" {% endif %}><a href="/product/3/">德稻演讲</a>
+                            <li {% if request.path == "/product/3/" %} class="cur" {% endif %}><a href="/product/3/#jump">德稻演讲</a>
                             </li>
-                            <li {% if request.path == "/product/4/" %} class="cur" {% endif %}><a href="/product/4/">德稻知识资本创新中心</a>
+                            <li {% if request.path == "/product/4/" %} class="cur" {% endif %}><a href="/product/4/#jump">德稻知识资本创新中心</a>
                             </li>
-                            <li {% if request.path == "/product/5/" %} class="cur" {% endif %}><a href="/product/5/">德稻特色小镇</a>
+                            <li {% if request.path == "/product/5/" %} class="cur" {% endif %}><a href="/product/5/#jump">德稻特色小镇</a>
                             </li>
                         </ul>
                     </div>
@@ -35,7 +39,7 @@
                 <ul class="fix">
 
                     <li>
-                        <a href="/product/">
+                        <a href="/product/#jump">
                             <h3 class="s_title">德稻知识资本</h3>
                             <div class="inline-box">
                                 <div class="img">
@@ -53,7 +57,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="/product/2/">
+                        <a href="/product/2/#jump">
                             <h3 class="s_title">全球知识资本企业家俱乐部</h3>
                             <div class="inline-box">
                                 <div class="img">
@@ -70,7 +74,7 @@
                             </div>
                         </a>
                     </li>
-                    <li><a href="/product/3/"><h3 class="s_title">德稻演讲</h3>
+                    <li><a href="/product/3/#jump"><h3 class="s_title">德稻演讲</h3>
                         <div class="inline-box">
                             <div class="img">
                                 <img src="/static/upload/images/2016/11/15/4e559038a34f43c388e00a7c1f306d86.jpg"
@@ -85,7 +89,7 @@
                             </div>
                         </div>
                     </a></li>
-                    <li><a href="/product/4/"><h3 class="s_title">德稻知识资本创新中心</h3>
+                    <li><a href="/product/4/#jump"><h3 class="s_title">德稻知识资本创新中心</h3>
                         <div class="inline-box">
                             <div class="img">
                                 <img src="/static/upload/images/2016/11/15/0224aa82c51247aba0a83e0ac529e1c2.jpg"
@@ -100,7 +104,7 @@
                             </div>
                         </div>
                     </a></li>
-                    <li><a href="/product/5/"><h3 class="s_title">德稻特色小镇</h3>
+                    <li><a href="/product/5/#jump"><h3 class="s_title">德稻特色小镇</h3>
                         <div class="inline-box">
                             <div class="img">
                                 <img src="/static/upload/images/2016/11/15/2a7b8da6077f445e9ea0747c86e1d791.jpg"

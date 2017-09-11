@@ -26,4 +26,8 @@ urlpatterns = [
     url(r'^product/(\d?)', product),
     url(r'^partner/$', partner),
     url(r'^joinus/$', joinus),
+    url(r'^data/$', data),
+    url(r'^contact/$', contact),
+    url(r'^news/$', news),
+    url(r'^map/$', maps),
 ]

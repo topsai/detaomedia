@@ -45,3 +45,19 @@ def partner(requesr):
 
 def joinus(requesr):
     return render(requesr, "joinus.html")
+
+
+def data(requesr):
+    return render(requesr, "data.html")
+
+
+def contact(requesr):
+    return render(requesr, "contact.html")
+
+
+def news(requesr):
+    return render(requesr, "news.html")
+
+
+def maps(requesr):
+    return render(requesr, "map.html")

@@ -7,7 +7,6 @@
     <meta name="renderer" content="webkit">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="format-detection" content="telephone=no">
-    <meta name="author" content="design by www.jerei.com">
     <link rel="stylesheet" href="/static/resources/favicon.ico">
     <link rel="stylesheet" href="/static/resources/ui/ui.css?v=2">
     <link rel="stylesheet" href="/static/resources/ui/grid12.css">
@@ -18,23 +17,26 @@
     <script fixed="true" type="text/javascript" src="/static/resources/web/js/imgLoader.js"></script>
     <script src="/static/resources/modules/seajs/sea.js" id="seajsnode"></script>
     <script src="/static/resources/web/seajs.config.js" id="seajsConfig" domain="http://www.detaoma.com/"></script>
-    <link href="/static/bootstarp/assets/css/bootstrap.min.css" rel="stylesheet">
+{#    <link href="/static/bootstarp/assets/css/bootstrap.min.css" rel="stylesheet">#}
+    {% block style %}
+    {% endblock %}
     <style>
         a {
             color: #000;
         }
     </style>
+
 </head>
 <body>
 <section class="color_01 new_channelIndex ab_channel ab_gywm">
     <header class="pageHeader n_header transition">
         <div class="wrap fix">
-            <h4 class="logo"><a href="/" title="德稻传媒"><img src="/static/resources/web/img/logo.png" alt="德稻传媒"></a></h4>
+            <h4 class="logo"><a href="/" title="德稻传媒"><img src="/static/images/logo.png" alt="德稻传媒"></a></h4>
             <a href="#menu" class="mobile_key"><i class="ion"></i></a>
             <div class="top_r fix">
                 <div class="_links" id="loginLink">
                     <span class="lt"><a href="#">登录</a><em class="b">|</em><a href="#">注册</a></span>
-                    <span class="lt"><a href="、">中</a><em class="b">|</em><a href="#">EN</a></span>
+                    <span class="lt"><a href="#">中</a><em class="b">|</em><a href="#">EN</a></span>
                 </div>
                 <div class="search pr">
                     <div class="hd">
@@ -49,9 +51,7 @@
                         <div class="list pa oh hide">
                             <p>快速链接</p>
                             <a href="#" class=" t-f" title="德稻大师" target="">德稻大师</a>
-                            <a href="#" class=" t-f" title="专业共建" target="">专业共建</a>
-                            <a href="#" class=" t-f" title="什么是O+O课程？" target="">什么是O+O课程？</a>
-                            <a href="#" class=" t-f" title="合作伙伴" target="">合作伙伴</a>
+                            <a href="#" class=" t-f" title="专业共建" target="">德稻传媒</a>
                         </div>
                     </form>
                 </div>
@@ -63,7 +63,7 @@
                         <li {% if request.path == "/master/" %} class="cur" {% endif %}><a href="/master/">德稻大师</a></li>
                         <li {% if request.path == "/product/" %} class="cur" {% endif %}><a href="/product/">产品中心</a></li>
                         <li {% if request.path == "/partner/" %} class="cur" {% endif %}><a href="/partner/">合作中心</a></li>
-                        <li class=""><a href="">传媒动态</a></li>
+                        <li {% if request.path == "/news/" %} class="cur" {% endif %}><a href="/news/">传媒动态</a></li>
                     </ul>
                 </nav>
             </div>
@@ -83,9 +83,9 @@
       </div>
       <div class="dd">
        <a href="/joinus/" target="_blank">加入我们</a>
-       <a href="" target="_blank">媒体资料</a>
-       <a href="" target="_blank">联系我们</a>
-       <a href="" target="_blank">站点地图</a>
+       <a href="/data/" target="_blank">媒体资料</a>
+       <a href="/contact/" target="_blank">联系我们</a>
+       <a href="/map/" target="_blank">站点地图</a>
       </div>
       <div class="dd f_link">
        <span class="_val">快速链接</span>

@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block style %}
+    <style>
+        .current_section h2.title {
+            color: white;
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 55%;
+            margin-top: -33px;
+        }
+    </style>
+{% endblock %}
+{% block center %}
+    <div class="full_section n_section current_section channelName_banner">
+        <div class="current_section_bg">
+            <img src="/static/resources/web/img/cs_bg.jpg" alt="">
+        </div>
+        <h2 class="title tc fadeInUp"> 媒体资料 </h2>
+    </div>
+    <div class="full_section n_section media_bg">
+        <div class="wrap">
+            <div class="mediaT_list2">
+                <ul class="oh" id="container">
+                    <li class="fadeInUp">
+                        <span class="img l"><i class="ico80 ico80"></i></span>
+                        <h2 class="_title l"><a
+                                href="#">德稻传媒公司介绍</a>
+                        </h2>
+                    </li>
+
+                    <li class="fadeInUp">
+                        <span class="img l"><i class="ico80 ico80"></i></span>
+                        <h2 class="_title l"><a
+                                href="#">德稻传媒产品介绍</a>
+                        </h2>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+{% endblock %}

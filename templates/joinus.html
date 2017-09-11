@@ -1,22 +1,35 @@
 {% extends "base.html" %}
+{% block style %}
+    <style>
+        .current_section h2.title {
+            color: white;
+            position: absolute;
+            left: 0;
+            right: 0;
+            top: 55%;
+            margin-top: -33px;
+        }
+
+        .new_channelIndex .menu_bd {
+            position: initial;
+        }
+
+        .full_section .bd .menus li {
+            display: inline-block;
+            width: 50%;
+        }
+    </style>
+{% endblock %}
+
 {% block center %}
     <div class="full_section n_section current_section channelName_banner">
-    <div class="current_section_bg">
-     <img src="/static/resources/web/img/cs_bg.jpg" alt="">
+        <div class="current_section_bg">
+            <img src="/static/resources/web/img/cs_bg.jpg" alt="">
+        </div>
+        <h2 class="title tc fadeInUp"> 加入我们 </h2>
     </div>
-    <h2 class="title tc fadeInUp"> 加入我们 </h2>
-   </div>
-    <div class="full_section n_section color_06_menu menuZ-index">
-    <div class="bd menu_bd job_menu" style="height: 60px;">
-     <div class="menus">
-      <ul class="wrap fix">
-       <li class="cur"> <a href="#">诚聘英才</a></li>
-       <li class=""> <a href="#">访问学者</a></li>
-      </ul>
-     </div>
-    </div>
-   </div>
-    <input type="hidden" id="catId" value="171">
+
+
     <div class="full_section n_section join_bg">
         <div class="joinTit fix fadeInUp">
             <div class="wrap fix">
@@ -28,8 +41,6 @@
         </div>
         <div class="joinT_list">
             <ul class="oh" id="container">
-
-
                 <li class="fadeInUp">
                     <div class="wrap fix">
                         <span class="_posi l">德稻渡堂海工作室生态建筑助教</span>
@@ -61,78 +72,22 @@
                                                       class="m_detail">查看详细</a></span>
                     </div>
                 </li>
-
-                <li class="fadeInUp">
-                    <div class="wrap fix">
-                        <span class="_posi l">德稻科智艺术工作室老师</span>
-                        <span class="_addr l tc">上海</span>
-                        <span class="_num l tc">1人</span>
-                        <span class="_date l  tc">2016-10-17</span>
-                        <span class="_button l tc"><a href="/job/1509.htm" title="德稻科智艺术工作室老师" target="_blank"
-                                                      class="m_detail">查看详细</a></span>
-                    </div>
-                </li>
-
-                <li class="fadeInUp">
-                    <div class="wrap fix">
-                        <span class="_posi l">Kim Jarrett（贾金杰）&amp; Tina Hart（郝天娜）工作室主题环境设计项目经理</span>
-                        <span class="_addr l tc">上海</span>
-                        <span class="_num l tc">1人</span>
-                        <span class="_date l  tc">2016-10-17</span>
-                        <span class="_button l tc"><a href="/job/1508.htm"
-                                                      title="Kim Jarrett（贾金杰）&amp; Tina Hart（郝天娜）工作室主题环境设计项目经理"
-                                                      target="_blank" class="m_detail">查看详细</a></span>
-                    </div>
-                </li>
-
-                <li class="fadeInUp">
-                    <div class="wrap fix">
-                        <span class="_posi l">德稻动漫创意学院（iacc）三维原画师</span>
-                        <span class="_addr l tc">上海</span>
-                        <span class="_num l tc">1人</span>
-                        <span class="_date l  tc">2016-10-17</span>
-                        <span class="_button l tc"><a href="/job/1505.htm" title="德稻动漫创意学院（iacc）三维原画师" target="_blank"
-                                                      class="m_detail">查看详细</a></span>
-                    </div>
-                </li>
-
-
-                <li class="fadeInUp">
-                    <div class="wrap fix">
-                        <span class="_posi l">德稻动漫创意学院（iacc）角色动画师</span>
-                        <span class="_addr l tc">上海</span>
-                        <span class="_num l tc">1人</span>
-                        <span class="_date l  tc">2016-10-17</span>
-                        <span class="_button l tc"><a href="/job/1504.htm" title="德稻动漫创意学院（iacc）角色动画师" target="_blank"
-                                                      class="m_detail">查看详细</a></span>
-                    </div>
-                </li>
-
-                <li class="fadeInUp">
-                    <div class="wrap fix">
-                        <span class="_posi l">德稻动漫创意学院（iacc）建模师</span>
-                        <span class="_addr l tc">上海</span>
-                        <span class="_num l tc">1人</span>
-                        <span class="_date l  tc">2016-10-17</span>
-                        <span class="_button l tc"><a href="/job/1503.htm" title="德稻动漫创意学院（iacc）建模师" target="_blank"
-                                                      class="m_detail">查看详细</a></span>
-                    </div>
-                </li>
-
-
             </ul>
         </div>
         <div class="pj-lb-more load_end" id="st_data_more" style="display: none;">已加载完成</div>
         <div class="wrap">
             <div class="tr _links fadeInUp">
                 <span class="_t">站外链接：</span>
-                <a href="https://company.liepin.com/7884030/ " target="_blank" title="猎聘"><img
-                        src="/static/upload/images/2016/08/22/020136b71cde4dba81793dc69fdf7c1b.png" alt="猎聘"></a>
+                <a href="https://company.liepin.com/7884030/ " target="_blank" title="猎聘">
+                    <img src="/static/upload/images/2016/08/22/020136b71cde4dba81793dc69fdf7c1b.png" alt="猎聘">
+                </a>
                 <a href="http://www.linkedin.com/company/detao-masters-academy/careers?trk=top_nav_careers"
-                   target="_blank" title="in"><img
-                        src="/static/upload/images/2016/08/04/f34396faa2d743c992d31ec7e96f9bfb.jpg" alt="in"></a>
-                <a href="http://jobs.51job.com/all/co2660506.html " target="_blank" title="前程无忧"><img
-                        src="/static/upload/images/2016/08/04/ffed8f75ab3b44f5b62aabcbc586e51f.jpg" alt="前程无忧"></a>
+                   target="_blank" title="in">
+                    <img src="/static/upload/images/2016/08/04/u=4108328796,2619099654&fm=202&w_h=121in.jpg" alt="in">
+                </a>
+                <a href="http://jobs.51job.com/all/co2660506.html " target="_blank" title="前程无忧">
+                    <img src="/static/upload/images/2016/08/04/ffed8f75ab3b44f5b62aabcbc586e51f.jpg" alt="前程无忧">
+                </a>
             </div>
         </div>
     </div>
