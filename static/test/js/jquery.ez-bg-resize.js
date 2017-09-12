@@ -27,7 +27,8 @@
 			jqez.height = this.height;
 			
 			// Create a unique div container
-			$("body").append('<div id="jq_ez_bg"></div>');
+			$("body").prepend('<div id="jq_ez_bg"></div>');
+
 
 			// Add the image to it.
 			$("#jq_ez_bg").html('<img src="' + jqez.img[0] + '" width="' + jqez.width + '" height="' + jqez.height + '" border="0">');
@@ -52,7 +53,7 @@
     function resizeImage() {
 	
         $("#jq_ez_bg").css({
-            "position":"fixed",
+            "position":"absolute",
             "top":"0px",
             "left":"0px",
             "z-index":"-1",

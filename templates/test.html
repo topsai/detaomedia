@@ -8,7 +8,7 @@
 <script type="text/javascript" src="/static/test/js/jquery.ez-bg-resize.js"></script>
 <script type="text/javascript">
 $(document).ready(function() {
-	$("body").ezBgResize({
+	$("#bb").ezBgResize({
 		img     : "/static/test/image/bg.jpg", // Relative path example.  You could also use an absolute url (http://...).
 		opacity : 1, // Opacity. 1 = 100%.  This is optional.
 		center  : true // Boolean (true or false). This is optional. Default is true.
@@ -17,7 +17,11 @@ $(document).ready(function() {
 </script>
 </head>
 <body>
+<div id="bb">
 
+</div>
+<div style="height: 1500px">
+<p>sadasfasf</p>
 </div>
 </body>
 </html>
