@@ -1,7 +1,13 @@
 ﻿{% extends "base.html" %}
 
 {% block style %}
-    <link href ="/static/bootstarp/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/bootstarp/assets/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .index_imgBox .cover .cover_con {
+            width: 100%;
+        }
+
+    </style>
 {% endblock %}
 {% block center %}
     <div class="full_section color_01 n_section jycp01 zygj01 mobileSlideBlock">
@@ -21,13 +27,17 @@
 
                             <li {% if request.path == "/product/#jump" %} class="cur" {% endif %}><a
                                     href="/product/">德稻知识资本</a></li>
-                            <li {% if request.path == "/product/2/" %} class="cur" {% endif %}><a href="/product/2/#jump">全球知识资本企业家俱乐部</a>
+                            <li {% if request.path == "/product/2/" %} class="cur" {% endif %}><a
+                                    href="/product/2/#jump">全球知识资本企业家俱乐部</a>
                             </li>
-                            <li {% if request.path == "/product/3/" %} class="cur" {% endif %}><a href="/product/3/#jump">德稻演讲</a>
+                            <li {% if request.path == "/product/3/" %} class="cur" {% endif %}><a
+                                    href="/product/3/#jump">德稻演讲</a>
                             </li>
-                            <li {% if request.path == "/product/4/" %} class="cur" {% endif %}><a href="/product/4/#jump">德稻知识资本创新中心</a>
+                            <li {% if request.path == "/product/4/" %} class="cur" {% endif %}><a
+                                    href="/product/4/#jump">德稻知识资本创新中心</a>
                             </li>
-                            <li {% if request.path == "/product/5/" %} class="cur" {% endif %}><a href="/product/5/#jump">德稻特色小镇</a>
+                            <li {% if request.path == "/product/5/" %} class="cur" {% endif %}><a
+                                    href="/product/5/#jump">德稻特色小镇</a>
                             </li>
                         </ul>
                     </div>
@@ -114,7 +124,7 @@
                                 <div class="cover_con">
                                     <div class="s_text">
                                         <p>2016年7月，住建部、国家发改委、财政部公布
-《关于开展特色小镇培育工作的通知》，提出到2020年我国将培育1000个左右各具特色、富有活力的休闲旅游、商贸物流、现代制造、教育科技、传统文化、美丽宜居等特色小镇。</p>
+                                            《关于开展特色小镇培育工作的通知》，提出到2020年我国将培育1000个左右各具特色、富有活力的休闲旅游、商贸物流、现代制造、教育科技、传统文化、美丽宜居等特色小镇。</p>
                                     </div>
                                 </div>
                             </div>
