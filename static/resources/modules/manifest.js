@@ -65,11 +65,11 @@ define('manifest',function(){
         'zoom'								: 'v2.0.21',
         'scroll-loading'                    : 'v0.0.11',
         'smoothscroll'                      : 'v0.0.12'
-    }
-    var manifest = {}
+    };
+    var manifest = {};
     for(var key in mod){
         manifest[seajs.data.base + key + '.js'] = mod[key]
     }
     seajs.data.localcache.manifest = manifest;
     
-})
+});
