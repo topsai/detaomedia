@@ -41,7 +41,7 @@ define(function(require, exports, module) {
     }else{
       var new_width = $('body').outerWidth();
       if(new_width != $('body').data('w')){
-        document.location.reload();
+        //document.location.reload();
       }
     }
     

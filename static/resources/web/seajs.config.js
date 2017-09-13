@@ -5,10 +5,10 @@
 seajs.root = document.getElementById("seajsConfig") && document.getElementById("seajsConfig").getAttribute("domain") || ''; 
 
 seajs.config({
-	base: seajs.root + "resources/modules",
+	base: seajs.root + "static/resources/modules",
 	paths: {
-		"js" : seajs.root + "resources/web/js",
-		"lib": seajs.root + "resources/web/lib"
+		"js" : seajs.root + "static/resources/web/js",
+		"lib": seajs.root + "static/resources/web/lib"
 	},
 	alias: {
 		"audio"		  : "audio/audio",

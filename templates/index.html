@@ -19,7 +19,9 @@
     <script fixed="true" type="text/javascript" src="/static/resources/web/js/imgLoader.js"></script>
     <script src="/static/resources/modules/seajs/sea.js" id="seajsnode"></script>
     {#  <script src="/static/resources/web/seajs.config.js" id="seajsConfig" domain="http://www.detaoma.com/"></script>#}
-    <script src="/static/resources/web/seajs.config.js" id="seajsConfig" domain="http://www.detaoma.com/"></script>
+    <script src="/static/resources/web/seajs.config.js" id="seajsConfig" domain="http://localhost:8888/"></script>
+    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+    <script type="text/javascript" src="/static/test/js/jquery.ez-bg-resize.js"></script>
     <style>
         body {
             font: "微软雅黑", 'Microsoft YaHei';
@@ -39,9 +41,12 @@
         .yjtj_pic, .yjtj_pic li {
             height: auto;
         }
-
-
     </style>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("body").trigger("resize");
+        });
+    </script>
 </head>
 <body>
 <header class="pageHeader n_header transition">
@@ -86,21 +91,75 @@
 </header>
 <div class="search-bg poa-f hide"></div>
 <div class="index_sec_container">
-    <div class="full_section index_section index_sec1" data-section-name="page1">
-        <div class="ibanner opc0">
-            <ul>
-                <!-- banner图 -->
-                <li><img alt="千江" data-src="/static/images/qianjiang.jpg" src="/static/images/qianjiang.jpg">
-                    <div class="text animated fadeInUp"></div>
-                </li>
-                <li><img alt="德稻" data-src="/static/images/detao.jpg" src="/static/images/detao.jpg">
-                    <div class="text animated fadeInUp"></div>
-                </li>
+    <div class="container-fluid">
+    <div class="row">
+        <div class="carousel slide" id="slide">
+            <ol class="carousel-indicators">
+                <li data-target="#slide" data-slide-to="0" class="active"></li>
+                <li data-target="#slide" data-slide-to="1"></li>
+{#                <li data-target="#slide" data-slide-to="2"></li>#}
+            </ol>
+            <div id="jq_ez_bg" class="carousel-inner">
+                <div class="item active">
+                    <img class="bg-img" src="/static/images/qianjiang.jpg" alt="">
+                    <div class="carousel-caption">
+                        <h3>图片说明</h3>
+                        <p>这是slide1</p>
+                    </div>
+                </div>
+{#                <div class="item">#}
+{#                    <img class="bg-img" src="/static/images/detao.jpg" alt="">#}
+{#                    <div class="carousel-caption">#}
+{#                        <h3>图片说明</h3>#}
+{#                        <p>这是slide2</p>#}
+{#                    </div>#}
+{#                </div>#}
+                <div class="item">
+                    <img class="bg-img" src="/static/images/background-photo.jpg" alt="">
+                    <div class="carousel-caption">
+                        <h3>图片说明</h3>
+                        <p>这是slide3</p>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="carousel-control left" data-target="#slide" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+                <span class="sr-only">&lsaquo;</span>
+            </a>
+            <a href="#" class="carousel-control right" data-target="#slide" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+                <span class="sr-only">&rsaquo;</span>
+            </a>
 
-            </ul>
+            {#            <div style="text-align:center;">#}
+            {#                <input type="button" class="btn start-slide" value="开始">#}
+            {#                <input type="button" class="btn stop-slide" value="停止">#}
+            {#                <input type="button" class="btn prev-slide" value="上一张">#}
+            {#                <input type="button" class="btn next-slide" value="下一张">#}
+            {#                <input type="button" class="btn slide-first" value="slide 1">#}
+            {#                <input type="button" class="btn slide-second" value="slide 2">#}
+            {#                <input type="button" class="btn slide-third" value="slide 3">#}
+            {#            </div>#}
         </div>
-        <span class="index_arr"><img src="/static/resources/web/img/index_arr.png"></span>
+
     </div>
+
+</div>
+{#    <div class="full_section index_section index_sec1" data-section-name="page1">#}
+{#        <div class="ibanner opc0">#}
+{#            <ul>#}
+{#                <!-- banner图 -->#}
+{#                <li><img alt="千江" data-src="/static/images/qianjiang.jpg" src="/static/images/qianjiang.jpg">#}
+{#                    <div class="text animated fadeInUp"></div>#}
+{#                </li>#}
+{#                <li><img alt="德稻" data-src="/static/images/detao.jpg" src="/static/images/detao.jpg">#}
+{#                    <div class="text animated fadeInUp"></div>#}
+{#                </li>#}
+{##}
+{#            </ul>#}
+{#        </div>#}
+{#        <span class="index_arr"><img src="/static/resources/web/img/index_arr.png"></span>#}
+{#    </div>#}
     <div class="full_section color_01 n_section dtjy01 mobileSlideBlock">
         <div class="box">
             <div class="hd">
@@ -545,6 +604,10 @@
 <div style="display:none;" id="jr_analysis">
     <script src="https://s11.cnzz.com/z_stat.php?id=1260748586&web_id=1260748586" type="text/javascript"></script>
 </div>
+
+
+<script>window.jQuery || document.write('<script src="/static/bootstarp/assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </body>
 </html>
 <script type="text/javascript">
