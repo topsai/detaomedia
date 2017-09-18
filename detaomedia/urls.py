@@ -29,5 +29,6 @@ urlpatterns = [
     url(r'^data/$', data),
     url(r'^contact/$', contact),
     url(r'^news/$', news),
+    url(r'^new1/$', new1),
     url(r'^map/$', maps),
 ]

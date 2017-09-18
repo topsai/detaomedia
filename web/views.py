@@ -59,5 +59,9 @@ def news(requesr):
     return render(requesr, "news.html")
 
 
+def new1(requesr):
+    return render(requesr, "new1.html")
+
+
 def maps(requesr):
     return render(requesr, "map.html")
