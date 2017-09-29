@@ -1,0 +1,19 @@
+﻿{% extends 'base.html' %}
+{% block center %}
+   <div class="full_section color_01 n_section ds_bg"> 
+    <h2 class="title tc animated"> {{ data.chinese_name }}</h2>
+   </div> 
+   <div class="full_section color_01 n_section da_bg01"> 
+    <div class="wrap"> 
+     <div class="content2"> 
+      {{ data.content | safe }}
+     </div> 
+    </div> 
+    <!-- 出版物及作品 --> 
+   </div>
+
+
+<script type="text/javascript">
+    seajs.use('js/dashi');
+</script>
+{% endblock %}

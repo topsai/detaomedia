@@ -1,0 +1,122 @@
+{% extends 'background/backend_layout.html' %}
+
+{% block css %}
+    <link rel="stylesheet" href="/static/backend/plugins/kindeditor/themes/default/default.css"/>
+    <style>
+        .kind-content {
+            width: 100%;
+            min-height: 500px;
+        }
+    </style>
+{% endblock %}
+
+{% block conent %}
+    <ol class="breadcrumb" style="margin-bottom: 0;">
+        <li><a href="#">文章管理</a></li>
+        <li class="active">修改文章</li>
+    </ol>
+    <div style="padding: 5px 8px;">
+        <form method="POST" action="/backend/edit-article-{{ nid }}.html" enctype="multipart/form-data">
+            {% csrf_token %}
+            {% for i in form %}
+                <div class="form-group">
+                    {% if i.name == "avatar" %}
+                        {{ i.label_tag }}
+                        <input id="aa" type="text" name="avatar" style="display: none" value="{{ i.value }}">
+                        <input type="button" value="上传" onclick="up()">
+                        <div id="preview">
+                            <img src="{{ i.value }}" width="200" class="img-responsive">
+                        </div>
+                    {% else %}
+                        {{ i.name }}
+                        {{ i.label_tag }}{{ i }}
+                    {% endif %}
+                </div>
+            {% endfor %}
+            {#            {{ form.as_p }}#}
+
+            {#            {{ form.sorting }}#}
+            {#            {{ form.avatar}}#}
+            {#            {{ form.chinese_name}}#}
+            {#            {{ form.actual_name }}#}
+            {#            {{ form.introduction }}#}
+            {#            {{ form.content }}#}
+
+            {#            <div class="form-group">#}
+            {#                <label for="{{ form.title.id_for_label }}">标题 <span>{{ form.title.errors.0 }}</span></label>#}
+            {#                {{ form.title }}#}
+            {#            </div>#}
+            {#            <div class="form-group">#}
+            {#                <label for="summary">简介 <span>{{ form.summary.errors.0 }}</span></label>#}
+            {#                {{ form.summary }}#}
+            {#            </div>#}
+            {#            <div class="form-group">#}
+            {#                <label for="content">内容 <span>{{ form.content.errors.0 }}</span></label>#}
+            {#                {{ form.content }}#}
+            {#            </div>#}
+            {#            <div class="form-group">#}
+            {#                <label>类型 <span>{{ form.article_type.errors.0 }}</span></label>#}
+            {##}
+            {#                <div>#}
+            {#                    {{ form.article_type_id }}#}
+            {#                </div>#}
+            {##}
+            {#            </div>#}
+            {#            <div class="form-group">#}
+            {#                <label>分类 <span>{{ form.category_id.errors.0 }}</span></label>#}
+            {##}
+            {#                <div>#}
+            {#                    {{ form.category_id }}#}
+            {#                </div>#}
+            {#            </div>#}
+            {#            <div class="form-group">#}
+            {#                <label>标签 <span>{{ form.tags.errors.0 }}</span></label>#}
+            {##}
+            {#                <div>#}
+            {#                    {{ form.tags }}#}
+            {#                </div>#}
+            {#            </div>#}
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary" value="保 存">
+            </div>
+        </form>
+    </div>
+
+    <form id="form1" action="/test/" method="POST" enctype="multipart/form-data" target="ifm1">
+        {% csrf_token %}
+        <iframe id="ifm1" name="ifm1" style="display: none;"></iframe>
+        <input id="up" type="file" name="avatar" onchange="changeUpalod();"/>
+    </form>
+{% endblock %}
+
+{% block js %}
+    <script charset="utf-8" src="/static/backend/plugins/kindeditor/kindeditor-min.js"></script>
+    <script charset="utf-8" src="/static/backend/plugins/kindeditor/lang/zh_CN.js"></script>
+    <script>
+        function up() {
+            $("#up").click()
+        }
+
+        function changeUpalod() {
+            $('#ifm1').load(function () {
+                var text = $('#ifm1').contents().find('body').text();
+                var obj = JSON.parse(text);
+                console.log(obj);
+                $('#preview').empty();
+                var imgTag = document.createElement('img');
+                imgTag.src = obj.data;
+                imgTag.width = 200;
+                imgTag.className = "img-responsive";
+                $("#aa").val(obj.data);
+                $('#preview').append(imgTag);
+            });
+            $('#form1').submit();
+        }
+
+        KindEditor.ready(function (K) {
+            var editor = K.create('textarea[name="content"]', {
+                resizeType: 1
+            });
+        });
+    </script>
+{% endblock %}
