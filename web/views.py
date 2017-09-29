@@ -1,5 +1,6 @@
-from django.shortcuts import render
+from django.shortcuts import render, HttpResponse
 import subprocess
+from web import models
 
 
 # Create your views here.
@@ -11,12 +12,29 @@ def about(request):
     return render(request, 'about.html')
 
 
+import json
+
+
 def test(request):
-    return render(request, 'test.html')
+    if request.method == "GET":
+        return render(request, 'test.html')
+    else:
+        print(request.POST)
+        print(request.FILES)
+        ret = handle_uploaded_file(request.FILES)
+        date = {"status": "ok", "data": ret}
+        return HttpResponse(json.dumps(date))
 
 
 def master(request):
-    return render(request, 'master.html')
+    data = models.Master.objects.all()
+    return render(request, 'master.html', {"data": data})
+
+
+def resume(request, mid):
+    print(mid)
+    data = models.Master.objects.get(id=mid)
+    return render(request, 'resume.html', {"data": data})
 
 
 def product(request, i):
@@ -65,3 +83,30 @@ def new1(requesr):
 
 def maps(requesr):
     return render(requesr, "map.html")
+
+
+import os
+import time
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
+def handle_uploaded_file(f):
+    f = f.get('avatar')
+    # for i in dir(f):
+    #     try:
+    #         print(i, getattr(f, i))
+    #     except:
+    #         pass
+    print(os.path.splitext(f.name)[1])
+    print(BASE_DIR)
+    file_name = time.strftime('%Y-%m-%d-%H%M%S', time.localtime(time.time()))
+    last_name = os.path.splitext(f.name)[1]
+    static_path = "static/testupfile/{}{}".format(file_name, last_name)
+    path = os.path.join(BASE_DIR, static_path)
+    print(path)
+    with open(path, 'wb+') as destination:
+        for chunk in f.chunks():
+            destination.write(chunk)
+    print("file {} ok".format(path))
+    return os.path.join('/', static_path)

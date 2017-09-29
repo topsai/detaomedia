@@ -3,13 +3,14 @@
 import os
 import json
 import uuid
+import time
 from django.shortcuts import render
 from django.shortcuts import HttpResponse, Http404
 from django.shortcuts import redirect
 from django.db import transaction
 from django.urls import reverse
 
-from background.forms.article import MasterForm
+from background.forms.article import MasterForm, FieldForm, NationalityForm
 
 from django.contrib.auth.decorators import login_required
 from web import models
@@ -43,6 +44,11 @@ def login(request):
 @login_required
 def index(request):
     return render(request, 'background/backend_index.html')
+
+@login_required
+def field(request):
+    data = models.Field.objects.all()
+    return render(request, 'background/field.html', {'data': data})
 
 
 @login_required
@@ -222,20 +228,39 @@ def article(request, *args, **kwargs):
     # page = Pagination(request.GET.get('p', 1), data_count)
     # result = models.Article.objects.filter(**condition).order_by('-nid').only('nid', 'title', 'blog').select_related(
     #     'blog')[page.start:page.end]
+    result = models.Master.objects.all()
     # page_str = page.page_str(reverse('article', kwargs=kwargs))
     # category_list = models.Category.objects.filter(blog_id=blog_id).values('nid', 'title')
     # type_list = map(lambda item: {'nid': item[0], 'title': item[1]}, models.Article.type_choices)
     # kwargs['p'] = page.current_page
-    # ret = {'result': result,
-    #        'page_str': page_str,
-    #        'category_list': category_list,
-    #        'type_list': type_list,
-    #        'arg_dict': kwargs,
-    #        'data_count': data_count
-    #        }
+    ret = {'result': result,
+           # 'page_str': page_str,
+           # 'category_list': category_list,
+           # 'type_list': type_list,
+           # 'arg_dict': kwargs,
+           # 'data_count': data_count
+           }
     # print(result)
-    ret = None
+
     return render(request, 'background/backend_article.html', ret)
+
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
+def handle_uploaded_file(f):
+    print(os.path.splitext(f._name)[1])
+    print(BASE_DIR)
+    file_name = time.strftime('%Y-%m-%d-%H%M%S', time.localtime(time.time()))
+    last_name = os.path.splitext(f._name)[1]
+    static_path = "static/testupfile/{}{}".format(file_name, last_name)
+    path = os.path.join(BASE_DIR, static_path)
+    print(path)
+    with open(path, 'wb+') as destination:
+        for chunk in f.chunks():
+            destination.write(chunk)
+    print("file {} ok".format(path))
+    return os.path.join('/', static_path)
 
 
 @login_required
@@ -249,31 +274,51 @@ def add_article(request):
         form = MasterForm()
         return render(request, 'background/backend_add_article.html', {'form': form})
     elif request.method == 'POST':
-        form = MasterForm(request=request, data=request.POST)
-        if form.is_valid():
+        print(request.POST)
+        form = MasterForm(request.POST, request.FILES)
+        # print(request.FILES.get('avatar'))
 
-            with transaction.atomic():
-                tags = form.cleaned_data.pop('tags')
-                content = form.cleaned_data.pop('content')
-                print(content)
-                content = XSSFilter().process(content)
-                form.cleaned_data['blog_id'] = request.session['user_info']['blog__nid']
-                print(form.cleaned_data)
-                obj = models.Article.objects.create(**form.cleaned_data)
-                models.ArticleDetail.objects.create(content=content, article=obj)
-                tag_list = []
-                for tag_id in tags:
-                    tag_id = int(tag_id)
-                    tag_list.append(models.Article2Tag(article_id=obj.nid, tag_id=tag_id))
-                models.Article2Tag.objects.bulk_create(tag_list)
+        if form.is_valid():
+            print('oooo')
+            # static_path = handle_uploaded_file(request.FILES.get('avatar'))
             print('ok')
+            print(form.cleaned_data)
+            data = dict(form.cleaned_data)
+            # print(data)
+            # data['avatar'] = static_path
+            print(data)
+            ret = models.Master.objects.create(**data)
+            print(ret)
             return redirect('/backend/article-0-0.html')
         else:
-            print('err')
-            return render(request, 'backend_add_article.html', {'form': form})
+            print('err', form.errors)
+            return render(request, 'background/backend_add_article.html', {'form': form})
     else:
         return redirect('/')
 
+
+@login_required
+def add_field(request):
+    """
+    添加文章
+    :param request:
+    :return:
+    """
+    if request.method == 'GET':
+        form = FieldForm()
+        return render(request, 'background/backend_add_field.html', {'form': form})
+    elif request.method == 'POST':
+        print(request.POST)
+        form = FieldForm(request.POST)
+        if form.is_valid():
+            ret = models.Field.objects.create(**form.cleaned_data)
+            print(ret)
+            return redirect('/backend/field.html')
+        else:
+            print('err', form.errors)
+            return render(request, 'background/backend_add_field.html', {'form': form})
+    else:
+        return redirect('/')
 
 @login_required
 def edit_article(request, nid):
@@ -282,44 +327,33 @@ def edit_article(request, nid):
     :param request:
     :return:
     """
-    blog_id = request.session['user_info']['blog__nid']
+    print(nid)
+    # blog_id = request.session['user_info']['blog__nid']
     if request.method == 'GET':
-        obj = models.Article.objects.filter(nid=nid, blog_id=blog_id).first()
+        obj = models.Master.objects.filter(id=nid).values().first()
         if not obj:
-            return render(request, 'backend_no_article.html')
-        tags = obj.tags.values_list('nid')
-        if tags:
-            tags = list(zip(*tags))[0]
-        init_dict = {
-            'nid': obj.nid,
-            'title': obj.title,
-            'summary': obj.summary,
-            'category_id': obj.category_id,
-            'article_type_id': obj.article_type_id,
-            'content': obj.articledetail.content,
-            'tags': tags
-        }
-        form = ArticleForm(request=request, data=init_dict)
-        return render(request, 'backend_edit_article.html', {'form': form, 'nid': nid})
+            return render(request, 'background/backend_no_article.html')
+        form = MasterForm(obj)
+        return render(request, 'background/backend_edit_article.html', {'form': form, 'nid': nid})
     elif request.method == 'POST':
-        form = ArticleForm(request=request, data=request.POST)
+        form = MasterForm(data=request.POST)
         if form.is_valid():
-            obj = models.Article.objects.filter(nid=nid, blog_id=blog_id).first()
+            obj = models.Master.objects.filter(id=nid).values().first()
             if not obj:
-                return render(request, 'backend_no_article.html')
+                return render(request, 'background/backend_no_article.html')
             with transaction.atomic():
-                content = form.cleaned_data.pop('content')
-                content = XSSFilter().process(content)
-                tags = form.cleaned_data.pop('tags')
-                models.Article.objects.filter(nid=obj.nid).update(**form.cleaned_data)
-                models.ArticleDetail.objects.filter(article=obj).update(content=content)
-                models.Article2Tag.objects.filter(article=obj).delete()
-                tag_list = []
-                for tag_id in tags:
-                    tag_id = int(tag_id)
-                    tag_list.append(models.Article2Tag(article_id=obj.nid, tag_id=tag_id))
-                models.Article2Tag.objects.bulk_create(tag_list)
+                # content = form.cleaned_data.pop('content')
+                # content = XSSFilter().process(content)
+                # tags = form.cleaned_data.pop('tags')
+                models.Master.objects.filter(id=nid).update(**form.cleaned_data)
+                # models.ArticleDetail.objects.filter(article=obj).update(content=content)
+                # models.Article2Tag.objects.filter(article=obj).delete()
+                # tag_list = []
+                # for tag_id in tags:
+                #     tag_id = int(tag_id)
+                #     tag_list.append(models.Article2Tag(article_id=obj.nid, tag_id=tag_id))
+                # models.Article2Tag.objects.bulk_create(tag_list)
             return redirect('/backend/article-0-0.html')
         else:
             print(form.errors)
-            return render(request, 'backend_edit_article.html', {'form': form, 'nid': nid})
+            return render(request, 'background/backend_edit_article.html', {'form': form, 'nid': nid})

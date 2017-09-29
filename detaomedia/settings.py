@@ -119,3 +119,7 @@ STATICFILES_DIRS = [
 ]
 
 LOGIN_URL = '/login/'
+
+MEDIA_ROOT = 'media/'
+
+MEDIA_URL = 'media/'

@@ -24,6 +24,7 @@ urlpatterns = [
     url(r'^about/$', about),
     url(r'^test/$', test),
     url(r'^master/$', master),
+    url(r'^master/(\d+)/$', resume),
     url(r'^product/(\d?)', product),
     url(r'^partner/$', partner),
     url(r'^joinus/$', joinus),
