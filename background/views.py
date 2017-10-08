@@ -265,33 +265,16 @@ def handle_uploaded_file(f):
 
 @login_required
 def add_article(request):
-    """
-    添加文章
-    :param request:
-    :return:
-    """
     if request.method == 'GET':
         form = MasterForm()
         return render(request, 'background/backend_add_article.html', {'form': form})
     elif request.method == 'POST':
-        print(request.POST)
         form = MasterForm(request.POST, request.FILES)
-        # print(request.FILES.get('avatar'))
-
         if form.is_valid():
-            print('oooo')
-            # static_path = handle_uploaded_file(request.FILES.get('avatar'))
-            print('ok')
-            print(form.cleaned_data)
             data = dict(form.cleaned_data)
-            # print(data)
-            # data['avatar'] = static_path
-            print(data)
-            ret = models.Master.objects.create(**data)
-            print(ret)
+            models.Master.objects.create(**data)
             return redirect('/backend/article-0-0.html')
         else:
-            print('err', form.errors)
             return render(request, 'background/backend_add_article.html', {'form': form})
     else:
         return redirect('/')
@@ -299,26 +282,35 @@ def add_article(request):
 
 @login_required
 def add_field(request):
-    """
-    添加文章
-    :param request:
-    :return:
-    """
     if request.method == 'GET':
         form = FieldForm()
         return render(request, 'background/backend_add_field.html', {'form': form})
     elif request.method == 'POST':
-        print(request.POST)
         form = FieldForm(request.POST)
         if form.is_valid():
             ret = models.Field.objects.create(**form.cleaned_data)
-            print(ret)
             return redirect('/backend/field.html')
         else:
-            print('err', form.errors)
             return render(request, 'background/backend_add_field.html', {'form': form})
     else:
         return redirect('/')
+
+
+@login_required
+def add_news(request):
+    if request.method == 'GET':
+        form = FieldForm()
+        return render(request, 'background/backend_add_field.html', {'form': form})
+    elif request.method == 'POST':
+        form = FieldForm(request.POST)
+        if form.is_valid():
+            ret = models.Field.objects.create(**form.cleaned_data)
+            return redirect('/backend/field.html')
+        else:
+            return render(request, 'background/backend_add_field.html', {'form': form})
+    else:
+        return redirect('/')
+
 
 @login_required
 def edit_article(request, nid):
@@ -327,8 +319,6 @@ def edit_article(request, nid):
     :param request:
     :return:
     """
-    print(nid)
-    # blog_id = request.session['user_info']['blog__nid']
     if request.method == 'GET':
         obj = models.Master.objects.filter(id=nid).values().first()
         if not obj:
@@ -355,5 +345,4 @@ def edit_article(request, nid):
                 # models.Article2Tag.objects.bulk_create(tag_list)
             return redirect('/backend/article-0-0.html')
         else:
-            print(form.errors)
             return render(request, 'background/backend_edit_article.html', {'form': form, 'nid': nid})
