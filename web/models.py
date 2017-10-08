@@ -26,3 +26,11 @@ class Field(models.Model):
 
 class Nationality(models.Model):
     nationality = models.CharField(max_length=256)
+
+
+class News(models.Model):
+    title = models.CharField(max_length=256)
+    time = models.TimeField(auto_now_add=True)
+    # 相关大师
+    about = models.ManyToManyField("Master")
+    contant = models.CharField(max_length=10000)

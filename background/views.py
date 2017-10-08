@@ -23,11 +23,9 @@ from django.contrib.auth import authenticate, login as login_user, get_user_mode
 def login(request):
     print('login')
     if request.method == 'GET':
-
         form = AuthenticationForm()
-        return render(request, 'background/login.html', {'obj': form})
-    elif request.method == 'POST':
 
+    elif request.method == 'POST':
         form = AuthenticationForm(data=request.POST)
         if form.is_valid():
             login_user(request, form.get_user())
@@ -37,27 +35,20 @@ def login(request):
             else:
                 return redirect('/backend/index.html/')
         else:
-            return render(request, 'background/login.html', {'obj': form})
+            print(form.errors)
     else:
         return Http404
+    return redirect('/backend/index.html/')
 
 
 @login_required
 def index(request):
-    print("111")
     return render(request, 'background/backend_index.html')
-
 
 @login_required
 def field(request):
     data = models.Field.objects.all()
     return render(request, 'background/field.html', {'data': data})
-
-
-@login_required
-def nationality(request):
-    data = models.Nationality.objects.all()
-    return render(request, 'background/nationality.html', {'data': data})
 
 
 @login_required
@@ -220,7 +211,28 @@ def category(request):
 
 @login_required
 def article(request, *args, **kwargs):
+    """
+    博主个人文章管理
+    :param request:
+    :return:
+    """
+    # blog_id = request.session['user_info']['blog__nid']
+    # condition = {}
+    # for k, v in kwargs.items():
+    #     if v == '0':
+    #         pass
+    #     else:
+    #         condition[k] = v
+    # condition['blog_id'] = blog_id
+    # data_count = models.Article.objects.filter(**condition).count()
+    # page = Pagination(request.GET.get('p', 1), data_count)
+    # result = models.Article.objects.filter(**condition).order_by('-nid').only('nid', 'title', 'blog').select_related(
+    #     'blog')[page.start:page.end]
     result = models.Master.objects.all()
+    # page_str = page.page_str(reverse('article', kwargs=kwargs))
+    # category_list = models.Category.objects.filter(blog_id=blog_id).values('nid', 'title')
+    # type_list = map(lambda item: {'nid': item[0], 'title': item[1]}, models.Article.type_choices)
+    # kwargs['p'] = page.current_page
     ret = {'result': result,
            # 'page_str': page_str,
            # 'category_list': category_list,
@@ -228,6 +240,8 @@ def article(request, *args, **kwargs):
            # 'arg_dict': kwargs,
            # 'data_count': data_count
            }
+    # print(result)
+
     return render(request, 'background/backend_article.html', ret)
 
 
@@ -305,31 +319,6 @@ def add_field(request):
             return render(request, 'background/backend_add_field.html', {'form': form})
     else:
         return redirect('/')
-
-
-@login_required
-def add_nationality(request):
-    """
-    添加文章
-    :param request:
-    :return:
-    """
-    if request.method == 'GET':
-        form = NationalityForm()
-        return render(request, 'background/backend_add_nationality.html', {'form': form})
-    elif request.method == 'POST':
-        print(request.POST)
-        form = NationalityForm(request.POST)
-        if form.is_valid():
-            ret = models.Nationality.objects.create(**form.cleaned_data)
-            print(ret)
-            return redirect('/backend/nationality.html')
-        else:
-            print('err', form.errors)
-            return render(request, 'background/backend_add_nationality.html', {'form': form})
-    else:
-        return redirect('/')
-
 
 @login_required
 def edit_article(request, nid):

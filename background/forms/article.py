@@ -63,3 +63,12 @@ class NationalityForm(django_forms.Form):
     nationality = django_fields.CharField(
         widget=django_widgets.TextInput(attrs={'class': 'form-control', 'placeholder': '国籍', })
     )
+
+
+class NewsForm(django_forms.Form):
+    title = django_fields.CharField(
+        widget=django_widgets.TextInput(attrs={'class': 'form-control', 'placeholder': '标题', }),
+    )
+    about = django_fields.CharField(
+        widget=django_widgets.TextInput(attrs={'class': 'form-control', 'placeholder': '相关大师', }),
+    )
