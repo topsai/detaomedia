@@ -100,6 +100,7 @@ def handle_uploaded_file(f):
     #         pass
     print(os.path.splitext(f.name)[1])
     print(BASE_DIR)
+
     file_name = time.strftime('%Y-%m-%d-%H%M%S', time.localtime(time.time()))
     last_name = os.path.splitext(f.name)[1]
     static_path = "static/testupfile/{}{}".format(file_name, last_name)
