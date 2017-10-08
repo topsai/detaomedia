@@ -72,3 +72,7 @@ class NewsForm(django_forms.Form):
     about = django_fields.CharField(
         widget=django_widgets.TextInput(attrs={'class': 'form-control', 'placeholder': '相关大师', }),
     )
+    content = django_fields.CharField(
+        widget=django_widgets.Textarea(attrs={'class': 'kind-content'}),
+        label='内容',
+    )

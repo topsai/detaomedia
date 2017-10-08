@@ -10,7 +10,7 @@ from django.shortcuts import redirect
 from django.db import transaction
 from django.urls import reverse
 
-from background.forms.article import MasterForm, FieldForm, NationalityForm
+from background.forms.article import MasterForm, FieldForm, NationalityForm, NewsForm
 
 from django.contrib.auth.decorators import login_required
 from web import models
@@ -21,9 +21,9 @@ from django.contrib.auth import authenticate, login as login_user, get_user_mode
 
 
 def login(request):
-    print('login')
     if request.method == 'GET':
         form = AuthenticationForm()
+        return render(request, "background/login.html", {'obj': form})
 
     elif request.method == 'POST':
         form = AuthenticationForm(data=request.POST)
@@ -35,20 +35,30 @@ def login(request):
             else:
                 return redirect('/backend/index.html/')
         else:
-            print(form.errors)
+            return render(request, "background/login.html", {'obj': form})
     else:
         return Http404
-    return redirect('/backend/index.html/')
 
 
 @login_required
 def index(request):
     return render(request, 'background/backend_index.html')
 
+
 @login_required
 def field(request):
     data = models.Field.objects.all()
     return render(request, 'background/field.html', {'data': data})
+@login_required
+def news(request):
+    data = models.News.objects.all()
+    return render(request, 'background/news.html', {'data': data})
+
+
+@login_required
+def nationality(request):
+    data = models.Nationality.objects.all()
+    return render(request, 'background/nationality.html', {'data': data})
 
 
 @login_required
@@ -298,27 +308,49 @@ def add_article(request):
 
 
 @login_required
+def add_news(request):
+    if request.method == 'GET':
+        form = NewsForm()
+        return render(request, 'background/backend_add_news.html', {'form': form})
+    elif request.method == 'POST':
+        form = NewsForm(request.POST)
+        if form.is_valid():
+            ret = models.News.objects.create(**form.cleaned_data)
+            return redirect('/backend/news.html')
+        else:
+            return render(request, 'background/backend_add_news.html', {'form': form})
+    else:
+        return redirect('/')
+
+@login_required
 def add_field(request):
-    """
-    添加文章
-    :param request:
-    :return:
-    """
     if request.method == 'GET':
         form = FieldForm()
         return render(request, 'background/backend_add_field.html', {'form': form})
     elif request.method == 'POST':
-        print(request.POST)
         form = FieldForm(request.POST)
         if form.is_valid():
             ret = models.Field.objects.create(**form.cleaned_data)
-            print(ret)
             return redirect('/backend/field.html')
         else:
-            print('err', form.errors)
             return render(request, 'background/backend_add_field.html', {'form': form})
     else:
         return redirect('/')
+@login_required
+def add_nationality(request):
+    if request.method == 'GET':
+        form = NationalityForm()
+        return render(request, 'background/backend_add_nationality.html', {'form': form})
+    elif request.method == 'POST':
+        form = NationalityForm(request.POST)
+        if form.is_valid():
+            ret = models.Nationality.objects.create(**form.cleaned_data)
+            return redirect('/backend/nationality.html')
+        else:
+            return render(request, 'background/backend_add_nationality.html', {'form': form})
+    else:
+        return redirect('/')
+
 
 @login_required
 def edit_article(request, nid):
