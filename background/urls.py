@@ -20,6 +20,7 @@ from background import views
 urlpatterns = [
     url(r'^index.html/$', views.index),
     url(r'^field.html$', views.field),
+    url(r'^nationality.html$', views.nationality),
     url(r'^index.html$', views.index),
     url(r'^base-info.html/$', views.base_info),
     url(r'^tag.html/$', views.tag),
@@ -27,6 +28,7 @@ urlpatterns = [
     url(r'^article-(?P<article_type_id>\d+)-(?P<category_id>\d+).html/$', views.article, name='article'),
     url(r'^add-article.html/$', views.add_article),
     url(r'^add-field.html/$', views.add_field),
+    url(r'^add-nationality.html/$', views.add_nationality),
     url(r'^edit-article-(?P<nid>\d+).html/$', views.edit_article),
     url(r'^upload-avatar.html/$', views.upload_avatar),
 ]

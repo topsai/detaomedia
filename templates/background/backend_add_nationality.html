@@ -1,0 +1,26 @@
+{% extends 'background/backend_layout.html' %}
+
+{% block css %}
+    <link rel="stylesheet" href="/static/backend/plugins/kindeditor/themes/default/default.css"/>
+{% endblock %}
+
+{% block conent %}
+    <ol class="breadcrumb" style="margin-bottom: 0;">
+        <li><a href="#">文章管理</a></li>
+        <li class="active">添加文章</li>
+    </ol>
+    <div style="padding: 5px 8px;">
+        <form method="POST" action="/backend/add-nationality.html/">
+            {% csrf_token %}
+            {% for i in form %}
+                <div class="form-group">
+                    {{ i.label_tag }}{{ i }}
+                </div>
+            {% endfor %}
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary" value="保 存">
+            </div>
+        </form>
+    </div>
+
+{% endblock %}

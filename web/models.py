@@ -5,7 +5,7 @@ from django.db import models
 
 class Master(models.Model):
     # 大师编号，用于排序
-    sorting = models.IntegerField(verbose_name="大师编号", )
+    sorting = models.IntegerField(verbose_name="大师编号",)
     # 头像
     # avatar = models.CharField(max_length=256)
     avatar = models.ImageField(upload_to='img')
