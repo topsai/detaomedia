@@ -2,6 +2,12 @@
 
 {% block css %}
     <link rel="stylesheet" href="/static/backend/plugins/kindeditor/themes/default/default.css"/>
+    <style>
+        .kind-content {
+            width: 100%;
+            min-height: 500px;
+        }
+    </style>
 {% endblock %}
 
 {% block conent %}
@@ -10,20 +16,41 @@
         <li class="active">添加文章</li>
     </ol>
     <div style="padding: 5px 8px;">
-        <form method="POST" action="/backend/add-field.html/">
+        <form method="POST" action="/backend/add-news.html/" novalidate enctype="multipart/form-data">
             {% csrf_token %}
+
             {% for i in form %}
                 <div class="form-group">
-                    {{ i.label_tag }}{{ i }}
+                    {% if i.name == "thumbnails" %}
+                        {{ i.label_tag }}
+                        <span>{{ i.errors.0 }}</span>
+                        <input id="aa" type="text" name="thumbnails" style="display: none" value="">
+                        <input type="button" value="上传" onclick="up()">
+                        <div id="preview"></div>
+                    {% else %}
+                        {{ i.label_tag }}
+                        <span>{{ i.errors.0 }}</span>
+                        {{ i }}
+                    {% endif %}
                 </div>
             {% endfor %}
             <div class="form-group">
                 <input type="submit" class="btn btn-primary" value="保 存">
             </div>
+
+        </form>
+    </div>
+    <div style="position: absolute; top: -40px;">
+        <form id="form1" action="/test/" method="POST" enctype="multipart/form-data" target="ifm1">
+            {% csrf_token %}
+            <iframe id="ifm1" name="ifm1" style="display: none;"></iframe>
+            <input id="up" type="file" name="images" onchange="changeUpalod();"/>
         </form>
     </div>
 
+
 {% endblock %}
+
 {% block js %}
     <script charset="utf-8" src="/static/backend/plugins/kindeditor/kindeditor-min.js"></script>
     <script charset="utf-8" src="/static/backend/plugins/kindeditor/lang/zh_CN.js"></script>

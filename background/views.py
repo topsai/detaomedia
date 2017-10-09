@@ -20,6 +20,10 @@ from django.contrib.auth.forms import AuthenticationForm, UserCreationForm
 from django.contrib.auth import authenticate, login as login_user, get_user_model
 
 
+def ttt(request):
+    return render(request, 'background/tttt.html')
+
+
 def login(request):
     if request.method == 'GET':
         form = AuthenticationForm()
@@ -49,6 +53,8 @@ def index(request):
 def field(request):
     data = models.Field.objects.all()
     return render(request, 'background/field.html', {'data': data})
+
+
 @login_required
 def news(request):
     data = models.News.objects.all()
@@ -293,11 +299,13 @@ def add_article(request):
             # static_path = handle_uploaded_file(request.FILES.get('avatar'))
             print('ok')
             print(form.cleaned_data)
-            data = dict(form.cleaned_data)
+            # data = dict(form.cleaned_data)
+            # data['field_id'] = data.pop('field')
+            # data['nationality_id'] = data.pop('nationality')
             # print(data)
             # data['avatar'] = static_path
-            print(data)
-            ret = models.Master.objects.create(**data)
+            # print(data)
+            ret = models.Master.objects.create(**form.cleaned_data)
             print(ret)
             return redirect('/backend/article-0-0.html')
         else:
@@ -313,14 +321,21 @@ def add_news(request):
         form = NewsForm()
         return render(request, 'background/backend_add_news.html', {'form': form})
     elif request.method == 'POST':
+        print('post')
+        print(request.POST)
         form = NewsForm(request.POST)
         if form.is_valid():
+
+            about = form.cleaned_data.pop('about_id')
+            print(form.cleaned_data)
             ret = models.News.objects.create(**form.cleaned_data)
+            print(ret)
             return redirect('/backend/news.html')
         else:
             return render(request, 'background/backend_add_news.html', {'form': form})
     else:
         return redirect('/')
+
 
 @login_required
 def add_field(request):
@@ -336,6 +351,8 @@ def add_field(request):
             return render(request, 'background/backend_add_field.html', {'form': form})
     else:
         return redirect('/')
+
+
 @login_required
 def add_nationality(request):
     if request.method == 'GET':
@@ -354,15 +371,9 @@ def add_nationality(request):
 
 @login_required
 def edit_article(request, nid):
-    """
-    编辑文章
-    :param request:
-    :return:
-    """
-    print(nid)
-    # blog_id = request.session['user_info']['blog__nid']
     if request.method == 'GET':
         obj = models.Master.objects.filter(id=nid).values().first()
+        print(obj)
         if not obj:
             return render(request, 'background/backend_no_article.html')
         form = MasterForm(obj)

@@ -64,8 +64,6 @@
                             </div>
                         </div>
                         <span class="m_detail">了解更多</span> </a></li>
-
-
                 </ul>
             </div>
             <span class="button myback"><i></i></span>
@@ -79,47 +77,47 @@
             <input type="hidden" id="catId" value="1815">
             <div class="pic_list">
                 <ul class="row" id="container">
-                    <li class="span-4 smal-12">
-                        <div class="box pr oh">
-                            <a href="/new1/" class="rect-716 imgZoom" target="_blank"
-                               title=""><img src="/static/images/new1.jpg" class="_full">
-                                <div class="tit el pa transition">
+                    {% for i in obj %}
+                        <li class="span-4 smal-12">
+                            <div class="box pr oh">
+                                <a href="/news/{{ i.id }}" class="rect-716 imgZoom" target="_blank"
+                                   title=""><img src="{{ i.thumbnails }}" class="_full">
+                                    <div class="tit el pa transition">
                                     <span class="_t">
-                                        德稻传媒汇聚全球知识资本，助力500强企业高峰论坛
+                                        {{ i.title }}
                                     </span>
-                                    <span class="date">2017.08.25</span>
-                                </div>
-                            </a>
-                        </div>
-                    </li>
-                    <li class="span-4 smal-12">
-                        <div class="box pr oh">
-                            <a href="/new1/" class="rect-716 imgZoom" target="_blank"
-                               title=""><img src="/static/images/new1.jpg" class="_full">
-                                <div class="tit el pa transition">
-                                    <span class="_t">
-                                        德稻传媒汇聚全球知识资本，助力500强企业高峰论坛
-                                    </span>
-                                    <span class="date">2017.08.25</span>
-                                </div>
-                            </a>
-                        </div>
-                    </li>
-                    <li class="span-4 smal-12">
-                        <div class="box pr oh">
-                            <a href="/new1/" class="rect-716 imgZoom" target="_blank"
-                               title=""><img src="/static/images/new1.jpg" class="_full">
-                                <div class="tit el pa transition">
-                                    <span class="_t">
-                                        德稻传媒汇聚全球知识资本，助力500强企业高峰论坛
-                                    </span>
-                                    <span class="date">2017.08.25</span>
-                                </div>
-                            </a>
-                        </div>
-                    </li>
-
-
+                                        <span class="date">{{ i.time }}</span>
+                                    </div>
+                                </a>
+                            </div>
+                        </li>
+                    {% endfor %}
+{#                    <li class="span-4 smal-12">#}
+{#                        <div class="box pr oh">#}
+{#                            <a href="/new1/" class="rect-716 imgZoom" target="_blank"#}
+{#                               title=""><img src="/static/images/new1.jpg" class="_full">#}
+{#                                <div class="tit el pa transition">#}
+{#                                    <span class="_t">#}
+{#                                        德稻传媒汇聚全球知识资本，助力500强企业高峰论坛#}
+{#                                    </span>#}
+{#                                    <span class="date">2017.08.25</span>#}
+{#                                </div>#}
+{#                            </a>#}
+{#                        </div>#}
+{#                    </li>#}
+{#                    <li class="span-4 smal-12">#}
+{#                        <div class="box pr oh">#}
+{#                            <a href="/new1/" class="rect-716 imgZoom" target="_blank"#}
+{#                               title=""><img src="/static/images/new1.jpg" class="_full">#}
+{#                                <div class="tit el pa transition">#}
+{#                                    <span class="_t">#}
+{#                                        德稻传媒汇聚全球知识资本，助力500强企业高峰论坛#}
+{#                                    </span>#}
+{#                                    <span class="date">2017.08.25</span>#}
+{#                                </div>#}
+{#                            </a>#}
+{#                        </div>#}
+{#                    </li>#}
 
                 </ul>
             </div>

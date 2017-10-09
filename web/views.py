@@ -28,7 +28,9 @@ def test(request):
 
 def master(request):
     data = models.Master.objects.all()
-    return render(request, 'master.html', {"data": data})
+    field = models.Field.objects.all()
+    nationality = models.Nationality.objects.all()
+    return render(request, 'master.html', {"data": data, 'field': field, 'nationality': nationality})
 
 
 def resume(request, mid):
@@ -74,11 +76,13 @@ def contact(requesr):
 
 
 def news(requesr):
-    return render(requesr, "news.html")
+    data = models.News.objects.all()
+    return render(requesr, "news.html", {'obj': data})
 
 
-def new1(requesr):
-    return render(requesr, "new1.html")
+def news_detail(requesr, id):
+    data = models.News.objects.get(id=id)
+    return render(requesr, "new1.html", {'obj': data})
 
 
 def maps(requesr):
@@ -92,7 +96,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
 def handle_uploaded_file(f):
-    f = f.get('avatar')
+    f = f.get('images')
     # for i in dir(f):
     #     try:
     #         print(i, getattr(f, i))

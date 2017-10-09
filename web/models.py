@@ -7,7 +7,6 @@ class Master(models.Model):
     # 大师编号，用于排序
     sorting = models.IntegerField(verbose_name="大师编号",)
     # 头像
-    # avatar = models.CharField(max_length=256)
     avatar = models.ImageField(upload_to='img')
     # 中文名
     chinese_name = models.CharField(max_length=256)
@@ -30,7 +29,9 @@ class Nationality(models.Model):
 
 class News(models.Model):
     title = models.CharField(max_length=256)
+    # 缩略图
+    thumbnails = models.ImageField(upload_to='img')
     time = models.TimeField(auto_now_add=True)
     # 相关大师
-    about = models.ManyToManyField("Master")
-    contant = models.CharField(max_length=10000)
+    about = models.ManyToManyField("Master", blank=True, null=True)
+    content = models.CharField(max_length=10000)

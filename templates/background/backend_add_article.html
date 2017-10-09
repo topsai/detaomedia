@@ -16,18 +16,21 @@
         <li class="active">添加文章</li>
     </ol>
     <div style="padding: 5px 8px;">
-        <form method="POST" action="/backend/add-article.html" novalidate enctype="multipart/form-data">
+        <form method="POST" action="/backend/add-article.html/" novalidate enctype="multipart/form-data">
             {% csrf_token %}
 
             {% for i in form %}
                 <div class="form-group">
                     {% if i.name == "avatar" %}
                         {{ i.label_tag }}
+                        <span>{{ i.errors.0 }}</span>
                         <input id="aa" type="text" name="avatar" style="display: none" value="">
                         <input type="button" value="上传" onclick="up()">
                         <div id="preview"></div>
                     {% else %}
-                        {{ i.label_tag }}{{ i }}
+                        {{ i.label_tag }}
+                        <span>{{ i.errors.0 }}</span>
+                        {{ i }}
                     {% endif %}
                 </div>
             {% endfor %}
@@ -37,11 +40,14 @@
 
         </form>
     </div>
-    <form id="form1" action="/test/" method="POST" enctype="multipart/form-data" target="ifm1">
-        {% csrf_token %}
-        <iframe id="ifm1" name="ifm1" style="display: none;"></iframe>
-        <input id="up" type="file" name="avatar" onchange="changeUpalod();"/>
-    </form>
+    <div style="position: absolute; top: -40px;">
+        <form id="form1" action="/test/" method="POST" enctype="multipart/form-data" target="ifm1">
+            {% csrf_token %}
+            <iframe id="ifm1" name="ifm1" style="display: none;"></iframe>
+            <input id="up" type="file" name="images" onchange="changeUpalod();"/>
+        </form>
+    </div>
+
 
 {% endblock %}
 

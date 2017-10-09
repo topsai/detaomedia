@@ -16,7 +16,7 @@
         <li class="active">修改文章</li>
     </ol>
     <div style="padding: 5px 8px;">
-        <form method="POST" action="/backend/edit-article-{{ nid }}.html" enctype="multipart/form-data">
+        <form method="POST" action="/backend/edit-article-{{ nid }}.html/" enctype="multipart/form-data">
             {% csrf_token %}
             {% for i in form %}
                 <div class="form-group">

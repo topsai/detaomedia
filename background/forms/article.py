@@ -28,12 +28,14 @@ class MasterForm(django_forms.Form):
         widget=django_widgets.TextInput(attrs={'class': 'form-control', 'placeholder': '本名', }),
         label='本名',
     )
-    field = django_fields.ChoiceField(
-        widget=django_widgets.Select(attrs={'class': 'form-control',}),
+    field_id = django_fields.ChoiceField(
+        widget=django_widgets.Select(attrs={'class': 'form-control', }),
         label='领域',
+
+
         # widget=django_widgets.Select(choices=((1,'上海'),(2,'北京'),))
     )
-    nationality = django_fields.MultipleChoiceField(
+    nationality_id = django_fields.ChoiceField(
         widget=django_widgets.Select(attrs={'class': 'form-control', }),
         label='国籍',
     )
@@ -48,9 +50,8 @@ class MasterForm(django_forms.Form):
 
     def __init__(self, *args, **kwargs):
         super(MasterForm, self).__init__(*args, **kwargs)
-        self.fields['field'].choices = models.Field.objects.values_list()
-        self.fields['nationality'].choices = models.Nationality.objects.values_list()
-
+        self.fields['field_id'].choices = models.Field.objects.values_list()
+        self.fields['nationality_id'].choices = models.Nationality.objects.values_list()
 
 
 class FieldForm(django_forms.Form):
@@ -68,11 +69,31 @@ class NationalityForm(django_forms.Form):
 class NewsForm(django_forms.Form):
     title = django_fields.CharField(
         widget=django_widgets.TextInput(attrs={'class': 'form-control', 'placeholder': '标题', }),
+        label='标题'
     )
-    about = django_fields.CharField(
-        widget=django_widgets.TextInput(attrs={'class': 'form-control', 'placeholder': '相关大师', }),
+    thumbnails = django_fields.CharField(
+        widget=django_widgets.TextInput(attrs={'class': 'form-control', 'placeholder': '大师头像'}),
+        label='缩略图',
+
+        # widget=django_widgets.
+    )
+    # 相关大师，点击大师简历后出现相关新闻
+    about_id = django_fields.MultipleChoiceField(
+        widget=django_widgets.SelectMultiple(
+            attrs={'class': 'form-control', 'placeholder': '相关大师', },
+
+        ),
+        required=False,
+        label='相关大师'
+
     )
     content = django_fields.CharField(
         widget=django_widgets.Textarea(attrs={'class': 'kind-content'}),
         label='内容',
     )
+
+    def __init__(self, *args, **kwargs):
+        super(NewsForm, self).__init__(*args, **kwargs)
+        choices = models.Master.objects.values_list('id', 'chinese_name')
+        print(choices)
+        self.fields['about_id'].choices = choices

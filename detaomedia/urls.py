@@ -16,7 +16,7 @@ Including another URLconf
 from django.conf.urls import url, include
 from django.contrib import admin
 from web.views import *
-from background.views import login
+from background.views import login, ttt
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
@@ -31,8 +31,9 @@ urlpatterns = [
     url(r'^data/$', data),
     url(r'^contact/$', contact),
     url(r'^news/$', news),
-    url(r'^new1/$', new1),
+    url(r'^news/(\d+)/$', news_detail),
     url(r'^map/$', maps),
     url(r'^login/$', login),
+    url(r'^ttt/$', ttt),
     url(r'^backend/', include('background.urls')),
 ]
