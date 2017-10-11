@@ -10,18 +10,18 @@
                     </div>
                 </div>
             </div>
-{#            <div class="bd menu_bd">#}
-{#                <div class="menus">#}
-{#                    <div class="wrap">#}
-{#                        <ul class=" fix">#}
-{#                            <li class=""><a href="guan-yu-wo-men.htm#jump">关于我们</a></li>#}
-{#                            <li class="cur"><a href="de-dao-da-shi.htm#jump">德稻大师</a></li>#}
-{#                            <li class=""><a href="de-dao-li-cheng.htm#jump">德稻历程</a></li>#}
-{#                            <li class=""><a href="jiao-yu-yan-jiu-yuan.htm#jump">教育研究院</a></li>#}
-{#                        </ul>#}
-{#                    </div>#}
-{#                </div>#}
-{#            </div>#}
+            {#            <div class="bd menu_bd">#}
+            {#                <div class="menus">#}
+            {#                    <div class="wrap">#}
+            {#                        <ul class=" fix">#}
+            {#                            <li class=""><a href="guan-yu-wo-men.htm#jump">关于我们</a></li>#}
+            {#                            <li class="cur"><a href="de-dao-da-shi.htm#jump">德稻大师</a></li>#}
+            {#                            <li class=""><a href="de-dao-li-cheng.htm#jump">德稻历程</a></li>#}
+            {#                            <li class=""><a href="jiao-yu-yan-jiu-yuan.htm#jump">教育研究院</a></li>#}
+            {#                        </ul>#}
+            {#                    </div>#}
+            {#                </div>#}
+            {#            </div>#}
         </div>
     </div>
 
@@ -86,7 +86,7 @@
                         <div class="_options" id="field" onmouseover="onmenu(this)" onmouseout="outmenu(this)">
                             <a id="" onclick="chonse(this)">全部</a>
                             {% for i in field %}
-                            <a id="{{ i.id }}" onclick="chonse(this)">{{ i.field }}</a>
+                                <a id="{{ i.id }}" onclick="chonse(this)">{{ i.field }}</a>
                             {% endfor %}
                         </div>
                     </li>
@@ -99,7 +99,7 @@
                         <div class="_options" id="nationality" onmouseover="onmenu(this)" onmouseout="outmenu(this)">
                             <a id="" onclick="chonse(this)">全部</a>
                             {% for i in nationality %}
-                            <a id="{{ i.id }}" onclick="chonse(this)">{{ i.nationality }}</a>
+                                <a id="{{ i.id }}" onclick="chonse(this)">{{ i.nationality }}</a>
                             {% endfor %}
                         </div>
                     </li>
@@ -137,6 +137,7 @@
                             </div>
                         </li>
                     {% endfor %}
+                {{ contacts }}
                 </ul>
             </div>
             <div class="pj-lb-more" id="st_data_more">
@@ -147,22 +148,69 @@
     </div>
     <script type="text/javascript" src="/static/backend/js/jquery-1.12.4.js"></script>
     <script type="text/javascript">
-    function showmenu(obj) {
-        $(obj).next().show();
+    function getItems() {
+        if ($("#st_data_more").css('display') == 'none'){
+            $("#st_data_more").show();
+            console.log('show');
+            $.ajax({
+                url: "get_items",
+                type: "GET",
+                //headers: {'x-CSRFtoken': $.cookie('csrftoken')},
+                //data: $("#Form_id").serialize(), //ajax获取form中所有数据
+                success:function(data, a1, a2){
+
+                var ret = $.parseJSON(data);
+                console.log(ret);
+                for (var i in ret){
+                    console.log(ret[i][0],ret[i][1]);
+                    //TODO 大师流瀑。。。。。。。。。
+                }
+            }
+        })
+        }
+
     }
-    function onmenu(obj) {
-        $(obj).show();
-    }
-    function outmenu(obj) {
-        $(obj).hide();
-    }
-    function hiddenmenu(obj) {
-        $(obj).next().hide()
-    }
-    function chonse(obj) {
-        // 选择国籍或者行业进行筛选
-        $(obj).parent().prev().children('._val').text($(obj).text());
-        $(obj).parent().hide();
-    }
+        //判断文档滚动的位置
+        function wheelListen() {
+            var srollHeight = $(document).scrollTop();
+            if (srollHeight + $(window).height() >= $(document).height() - 400) {
+                getItems();
+            }
+        }
+
+
+        //绑定事件
+        $(window).on("load", function () {
+{#            getItems();#}
+            console.log('bind');
+            $(document).bind("mousewheel DOMMouseScroll", function () {
+                wheelListen();
+            });
+        });
+
+
+        function showmenu(obj) {
+            $(obj).next().show();
+        }
+
+        function onmenu(obj) {
+            $(obj).show();
+        }
+
+        function outmenu(obj) {
+            $(obj).hide();
+        }
+
+        function hiddenmenu(obj) {
+            $(obj).next().hide()
+        }
+
+        function chonse(obj) {
+            // 选择国籍或者行业进行筛选
+            $(obj).parent().prev().children('._val').text($(obj).text());
+            $(obj).parent().hide();
+        }
+
+
     </script>
 {% endblock %}

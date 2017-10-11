@@ -26,11 +26,36 @@ def test(request):
         return HttpResponse(json.dumps(date))
 
 
+from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
+from django.core import serializers
+
+
+def master_getitems(request):
+    # data = serializers.serialize("json", SomeModel.objects.all())
+    # data1 = serializers.serialize("json", SomeModel.objects.filter(myfield1=myvalue))
+    data = models.Master.objects.all().values_list('id', 'chinese_name', 'actual_name', 'introduction', 'avatar')[6:12]
+    data = list(data)
+    print(data)
+    return HttpResponse(json.dumps(data))
+
+
 def master(request):
-    data = models.Master.objects.all()
+    data = models.Master.objects.all()[:6]
     field = models.Field.objects.all()
     nationality = models.Nationality.objects.all()
-    return render(request, 'master.html', {"data": data, 'field': field, 'nationality': nationality})
+    # paginator = Paginator(data, 6)  # Show 25 contacts per page
+    # page = request.GET.get('page', 1)
+    # try:
+    #     contacts = paginator.page(page)
+    # except PageNotAnInteger:
+    #     # If page is not an integer, deliver first page.
+    #     contacts = paginator.page(1)
+    # except EmptyPage:
+    #     # If page is out of range (e.g. 9999), deliver last page of results.
+    #     contacts = paginator.page(paginator.num_pages)
+
+    return render(request, 'master.html',
+                  {"data": data, 'field': field, 'nationality': nationality, })
 
 
 def resume(request, mid):

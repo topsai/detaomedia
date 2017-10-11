@@ -33,7 +33,7 @@ define(function(require) {
   }
 
   //返回顶部
-  $('body').append('<img src="/resources/web/img/gotop.jpg" alt="返回顶部" class="gotop_img gotop">');
+  $('body').append('<img src="/static/resources/web/img/gotop.jpg" alt="返回顶部" class="gotop_img gotop">');
   if( $(window).scrollTop() > 10){
     $('.gotop').fadeIn();
   }else{
