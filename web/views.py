@@ -33,7 +33,18 @@ from django.core import serializers
 def master_getitems(request):
     # data = serializers.serialize("json", SomeModel.objects.all())
     # data1 = serializers.serialize("json", SomeModel.objects.filter(myfield1=myvalue))
-    data = models.Master.objects.all().values_list('id', 'chinese_name', 'actual_name', 'introduction', 'avatar')[6:12]
+    page = request.GET.get('page')
+    try:
+        page = int(page)
+    except:
+        page = 1
+    page += page
+    start = (page-1)*6
+    end = page*6
+    # 0-6, 6-12, 12-18
+    data = models.Master.objects.all().values_list(
+        'id', 'chinese_name', 'actual_name', 'introduction', 'avatar'
+    )[start:end]
     data = list(data)
     print(data)
     return HttpResponse(json.dumps(data))

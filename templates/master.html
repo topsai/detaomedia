@@ -80,26 +80,26 @@
                     <li>
                         <div class="sb" onmouseover="showmenu(this)" onmouseout="hiddenmenu(this)">
                             <span class="_t">领域</span>
-                            <span class="_val">全部</span>
-                            <input id="fieldId" type="hidden" value="">
+                            <span id="fieldId" class="_val" nid="0">全部</span>
+                            <input type="hidden" value="">
                         </div>
                         <div class="_options" id="field" onmouseover="onmenu(this)" onmouseout="outmenu(this)">
-                            <a id="" onclick="chonse(this)">全部</a>
+                            <a nid="0" onclick="chonse(this)">全部</a>
                             {% for i in field %}
-                                <a id="{{ i.id }}" onclick="chonse(this)">{{ i.field }}</a>
+                                <a nid="{{ i.id }}" onclick="chonse(this)">{{ i.field }}</a>
                             {% endfor %}
                         </div>
                     </li>
                     <li>
                         <div class="sb" onmouseover="showmenu(this)" onmouseout="hiddenmenu(this)">
                             <span class="_t">国籍</span>
-                            <span class="_val">全部</span>
-                            <input id="nationId" type="hidden" value="">
+                            <span id="nationId" class="_val" nid="0">全部</span>
+                            <input name="nationality" type="hidden" value="">
                         </div>
                         <div class="_options" id="nationality" onmouseover="onmenu(this)" onmouseout="outmenu(this)">
-                            <a id="" onclick="chonse(this)">全部</a>
+                            <a nid="0" onclick="chonse(this)">全部</a>
                             {% for i in nationality %}
-                                <a id="{{ i.id }}" onclick="chonse(this)">{{ i.nationality }}</a>
+                                <a nid="{{ i.id }}" onclick="chonse(this)">{{ i.nationality }}</a>
                             {% endfor %}
                         </div>
                     </li>
@@ -113,7 +113,7 @@
                 </ul>
             </div>
             <div class="pic_list">
-                <ul class="row" id="container">
+                <ul class="row" id="container" page=1>
                     {% for i in data %}
                         <li class="span-4 smal-12">
                             <div class="box pr oh">
@@ -125,51 +125,107 @@
                                     </div>
                                 </a>
                                 <a href="{{ i.id }}" class="pa _mask" target="_blank">
-                    <span class="cover">
-                      <h3 class="_title el">{{ i.chinese_name }}</h3>
-                      <div class="date">{{ i.actual_name }}</div>
-                      <div class="p">{{ i.introduction }}</div>
-                    </span>
-
-                                    <div class="tc"><span class="m_detail">了解更多</span></div>
+                                    <span class="cover">
+                                      <h3 class="_title el">{{ i.chinese_name }}</h3>
+                                      <div class="date">{{ i.actual_name }}</div>
+                                      <div class="p">{{ i.introduction }}</div>
+                                    </span>
+                                    <div class="tc">
+                                        <span class="m_detail">了解更多</span>
+                                    </div>
 
                                 </a>
                             </div>
                         </li>
                     {% endfor %}
-                {{ contacts }}
+                    {{ contacts }}
                 </ul>
             </div>
             <div class="pj-lb-more" id="st_data_more">
                 <div class="loading"></div>
                 <a href="javascript:;">加载中......</a>
             </div>
+            <div class="pj-lb-more" id="over">
+                <a>已经是最后了</a>
+            </div>
         </div>
     </div>
     <script type="text/javascript" src="/static/backend/js/jquery-1.12.4.js"></script>
     <script type="text/javascript">
-    function getItems() {
-        if ($("#st_data_more").css('display') == 'none'){
-            $("#st_data_more").show();
-            console.log('show');
-            $.ajax({
-                url: "get_items",
-                type: "GET",
-                //headers: {'x-CSRFtoken': $.cookie('csrftoken')},
-                //data: $("#Form_id").serialize(), //ajax获取form中所有数据
-                success:function(data, a1, a2){
+    function filter() {
+        //TODO 正在做筛选
+        var field = $('#fieldId').attr('nid');
+        var nationality = $('#nationId').attr('nid');
+        console.log(field);
+        console.log(nationality);
+        var url = "get_filter?field="+field+"&nationality="+nationality;
+        $.ajax({
+            url: url,
+            type: "GET",
+            //data: $("#Form_id").serialize(), ajax获取form中所有数据
+            success: function (data, a1, a2) {
+                console.log($.parseJSON(data))
+            }
+        });
+    }
 
-                var ret = $.parseJSON(data);
-                console.log(ret);
-                for (var i in ret){
-                    console.log(ret[i][0],ret[i][1]);
-                    //TODO 大师流瀑。。。。。。。。。
+
+        function getItems() {
+            if ($("#over").css('display') == 'none') {
+                if ($("#st_data_more").css('display') == 'none') {
+                    $("#st_data_more").show();
+                    var page = $('#container').attr('page');
+                    var url = "get_items?page=" + page;
+                    $.ajax({
+                        url: url,
+                        type: "GET",
+                        success: function (data, a1, a2) {
+                            if (data.length > 2) {
+                                console.log('you');
+                                $('#container').attr('page', parseInt($('#container').attr('page')) + 1);
+                                var ret = $.parseJSON(data);
+                                console.log(ret);
+                                for (var i in ret) {
+                                    console.log(ret[i][0], ret[i][1]);
+                                    //'id', 'chinese_name', 'actual_name', 'introduction', 'avatar'
+                                    //TODO 大师流瀑。。。。。。。。。
+                                    var li =
+                                        '<li class="span-4 smal-12">' +
+                                        '   <div class="box pr oh">' +
+                                        '       <a href="' + ret[i][0] + '" class="rect-716 imgZoom" target="_blank">' +
+                                        '           <img src="' + ret[i][4] + '" class="_full">' +
+                                        '           <div class="tit el pa transition">' +
+                                        '           <span class="_t">' + ret[i][1] + '</span>' +
+                                        '           <span class="date">' + ret[i][2] + '</span>' +
+                                        '    </div>' +
+                                        '    </a>' +
+                                        '    <a href="' + ret[i][0] + '" class="pa _mask" target="_blank">' +
+                                        '     <span class="cover">' +
+                                        '     <h3 class="_title el">' + ret[i][1] + '</h3>' +
+                                        '                                      <div class="date">' + ret[i][2] + '</div>' +
+                                        ' <div class="p">' + ret[i][3] + '</div>' +
+                                        '                                    </span>' +
+                                        '                                    <div class="tc">' +
+                                        '                                        <span class="m_detail">了解更多</span>' +
+                                        '                                    </div>' +
+                                        '                                </a>' +
+                                        '                            </div>' +
+                                        '                        </li>'
+                                    $('#container').append(li)
+                                }
+                            } else {
+                                console.log('meiyoule');
+                                $("#over").show();
+                            }
+                            $("#st_data_more").hide();
+                        }
+                    })
                 }
             }
-        })
+
+
         }
 
-    }
         //判断文档滚动的位置
         function wheelListen() {
             var srollHeight = $(document).scrollTop();
@@ -181,7 +237,7 @@
 
         //绑定事件
         $(window).on("load", function () {
-{#            getItems();#}
+            {#            getItems();#}
             console.log('bind');
             $(document).bind("mousewheel DOMMouseScroll", function () {
                 wheelListen();
@@ -208,9 +264,11 @@
         function chonse(obj) {
             // 选择国籍或者行业进行筛选
             $(obj).parent().prev().children('._val').text($(obj).text());
+            $(obj).parent().prev().children('._val').attr('nid', $(obj).attr('nid'));
             $(obj).parent().hide();
+            //$('#filter').submit();
+            filter();
+
         }
-
-
     </script>
 {% endblock %}
