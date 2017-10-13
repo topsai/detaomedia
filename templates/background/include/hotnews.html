@@ -1,0 +1,16 @@
+{% for row in data %}
+    <tr nid="{{ row.id }}">
+        <td><a href="/backend/edit-field-{{ row.id }}.html">{{ row.new.title }}</a></td>
+        <td>
+            <a class="btn btn-danger btn-xs">
+                <i class="fa fa-times" aria-hidden="true"></i>
+                删除
+            </a>
+            |
+            <a class="btn btn-primary btn-xs" href="/backend/edit-field-{{ row.id }}.html">
+                <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
+                编辑
+            </a>
+        </td>
+    </tr>
+{% endfor %}

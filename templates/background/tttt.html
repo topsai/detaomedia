@@ -1,0 +1,83 @@
+{% extends 'background/backend_layout.html' %}
+
+{% block css %}
+    <style>
+        tr {
+            border: 1px solid red
+        }
+
+        td {
+            border: 1px solid red
+        }
+    </style>
+
+{% endblock %}
+
+{% block conent %}
+    <div>
+        <table style="border: 1px solid red">
+            <tr>
+                <td><input type="checkbox" name="1"></td>
+                <td>asffsa</td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" name="1"></td>
+                <td>asffsa</td>
+            </tr>
+            <tr>
+                <td><input type="checkbox" name="1"></td>
+                <td>asffsa</td>
+            </tr>
+        </table>
+        <input type="button" value="选中" onclick="allcheck()">
+        <input type="button" value="取消" onclick="nocheck()">
+        <input type="button" value="反选" onclick="check()">
+        <input type="button" value="删除" onclick="delete1()">
+    </div>
+{% endblock %}
+
+{% block js %}
+    <script>
+        function delete1() {
+            $(':checkbox').each(
+                function () {
+                    if ($(this).prop('checked')) {
+                        console.log($(this).parent().parent().remove());
+                    }
+                }
+            )
+        }
+
+        function allcheck() {
+            $(':checkbox').prop('checked', true)
+        }
+
+        function nocheck() {
+            $(':checkbox').prop('checked', false)
+        }
+
+        function delete1() {
+            $(':checkbox').each(
+                function () {
+                    if ($(this).prop('checked')) {
+                        console.log($(this).parent().parent().remove());
+                    }
+                }
+            )
+        }
+
+        function check() {
+            $(':checkbox').each(
+                function () {
+                    console.log($(this).prop('checked'));
+                    if ($(this).prop('checked')) {
+                        $(this).prop('checked', false)
+
+                    } else {
+                        $(this).prop('checked', true)
+                    }
+                }
+            )
+        }
+    </script>
+{% endblock %}
