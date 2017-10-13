@@ -30,6 +30,52 @@ from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.core import serializers
 
 
+def master_getfilter(request):
+    # data = serializers.serialize("json", SomeModel.objects.all())
+    # data1 = serializers.serialize("json", SomeModel.objects.filter(myfield1=myvalue))
+    try:
+        field = int(request.GET.get('field'))
+        # 防止前端被篡改
+        if field < 0:
+            raise ValueError('field id  err')
+    except:
+        field = 0
+    try:
+        nationality = int(request.GET.get('nationality'))
+        # 防止前端被篡改
+        if nationality < 0:
+            raise ValueError('nationality id err')
+    except:
+        nationality = 0
+    # 组合查询条件
+    query_conditions = {}
+    if field:
+        query_conditions['field_id'] = field
+    if nationality:
+        query_conditions['nationality'] = nationality
+    # page 从前端传来的是当前是第几页，传来0时，页面无内容，需要获取第1页，所以需要+1以计算起始和结束为止
+    page = request.GET.get('page')
+    try:
+        page = int(page)
+        # 防止前端被篡改
+        if page < 0:
+            raise ValueError('page err')
+    except:
+        page = 0
+    page += 1
+    start_flg = (page - 1) * 6
+    end_flg = page * 6
+
+    # 0-6, 6-12, 12-18
+    print('QueryConditions', query_conditions, 'page:', page, start_flg, end_flg)
+    data = models.Master.objects.filter(**query_conditions).values_list(
+        'id', 'chinese_name', 'actual_name', 'introduction', 'avatar'
+    )[start_flg:end_flg]
+    data = list(data)
+    print(data)
+    return HttpResponse(json.dumps(data))
+
+
 def master_getitems(request):
     # data = serializers.serialize("json", SomeModel.objects.all())
     # data1 = serializers.serialize("json", SomeModel.objects.filter(myfield1=myvalue))
@@ -39,8 +85,8 @@ def master_getitems(request):
     except:
         page = 1
     page += page
-    start = (page-1)*6
-    end = page*6
+    start = (page - 1) * 6
+    end = page * 6
     # 0-6, 6-12, 12-18
     data = models.Master.objects.all().values_list(
         'id', 'chinese_name', 'actual_name', 'introduction', 'avatar'
@@ -51,7 +97,7 @@ def master_getitems(request):
 
 
 def master(request):
-    data = models.Master.objects.all()[:6]
+    # data = models.Master.objects.all()[:6]
     field = models.Field.objects.all()
     nationality = models.Nationality.objects.all()
     # paginator = Paginator(data, 6)  # Show 25 contacts per page
@@ -66,7 +112,7 @@ def master(request):
     #     contacts = paginator.page(paginator.num_pages)
 
     return render(request, 'master.html',
-                  {"data": data, 'field': field, 'nationality': nationality, })
+                  {'field': field, 'nationality': nationality, })
 
 
 def resume(request, mid):
@@ -112,8 +158,10 @@ def contact(requesr):
 
 
 def news(requesr):
-    data = models.News.objects.all()
-    return render(requesr, "news.html", {'obj': data})
+    news = models.News.objects.all()
+    hotnews = models.HotNews.objects.all()
+
+    return render(requesr, "news.html", {'news': news, 'hotnews': hotnews})
 
 
 def news_detail(requesr, id):

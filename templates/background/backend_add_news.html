@@ -16,7 +16,7 @@
         <li class="active">添加文章</li>
     </ol>
     <div style="padding: 5px 8px;">
-        <form method="POST" action="/backend/add-news.html/" novalidate enctype="multipart/form-data">
+        <form method="POST" action="{{ request.path }}" novalidate enctype="multipart/form-data">
             {% csrf_token %}
 
             {% for i in form %}

@@ -10,7 +10,7 @@ from django.shortcuts import redirect
 from django.db import transaction
 from django.urls import reverse
 
-from background.forms.article import MasterForm, FieldForm, NationalityForm, NewsForm
+from background.forms.article import MasterForm, FieldForm, NationalityForm, NewsForm, HotNewsForm
 
 from django.contrib.auth.decorators import login_required
 from web import models
@@ -59,6 +59,14 @@ def field(request):
 def news(request):
     data = models.News.objects.all()
     return render(request, 'background/news.html', {'data': data})
+
+
+@login_required
+def hotnews(request):
+    data = models.HotNews.objects.all()
+    path = 'background/include/hotnews.html'
+    # TODO 将增删改集中到一个页面
+    return render(request, 'background/hotnews.html', {'data': data, 'path': path})
 
 
 @login_required
@@ -331,6 +339,25 @@ def add_news(request):
             ret = models.News.objects.create(**form.cleaned_data)
             print(ret)
             return redirect('/backend/news.html')
+        else:
+            return render(request, 'background/backend_add_news.html', {'form': form})
+    else:
+        return redirect('/')
+
+
+@login_required
+def add_hotnews(request):
+    print(request.path)
+    if request.method == 'GET':
+        form = HotNewsForm()
+        return render(request, 'background/backend_add_news.html', {'form': form})
+    elif request.method == 'POST':
+        form = HotNewsForm(request.POST)
+        if form.is_valid():
+            ii = form.cleaned_data.get('new_id')
+            print(ii, type(ii))
+            models.HotNews.objects.create(**form.cleaned_data)
+            return redirect('/backend/hotnews.html')
         else:
             return render(request, 'background/backend_add_news.html', {'form': form})
     else:

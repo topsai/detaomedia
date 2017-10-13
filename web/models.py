@@ -31,7 +31,15 @@ class News(models.Model):
     title = models.CharField(max_length=256)
     # 缩略图
     thumbnails = models.ImageField(upload_to='img')
-    time = models.TimeField(auto_now_add=True)
+    time = models.DateTimeField(auto_now_add=True)
     # 相关大师
     about = models.ManyToManyField("Master", blank=True, null=True)
     content = models.CharField(max_length=10000)
+
+    def __str__(self):
+        return self.title
+
+
+class HotNews(models.Model):
+    thumbnails = models.ImageField()
+    new = models.ForeignKey('News')

@@ -7,7 +7,7 @@ from django.forms import fields as django_fields
 from django.forms import widgets as django_widgets
 
 from web import models
-
+from django.forms import ModelChoiceField
 
 class MasterForm(django_forms.Form):
     sorting = django_fields.IntegerField(
@@ -31,7 +31,6 @@ class MasterForm(django_forms.Form):
     field_id = django_fields.ChoiceField(
         widget=django_widgets.Select(attrs={'class': 'form-control', }),
         label='领域',
-
 
         # widget=django_widgets.Select(choices=((1,'上海'),(2,'北京'),))
     )
@@ -97,3 +96,20 @@ class NewsForm(django_forms.Form):
         choices = models.Master.objects.values_list('id', 'chinese_name')
         print(choices)
         self.fields['about_id'].choices = choices
+
+
+class HotNewsForm(django_forms.Form):
+    thumbnails = django_fields.CharField(
+        widget=django_widgets.TextInput(attrs={'class': 'form-control', 'placeholder': '大师头像'}),
+        label='缩略图',
+    )
+    new = ModelChoiceField(
+        queryset=models.News.objects.all(),
+        widget=django_widgets.Select(
+            attrs={'class': 'form-control'},
+        ),
+        label='相关新闻',
+    )
+
+
+
