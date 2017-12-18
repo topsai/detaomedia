@@ -7,12 +7,12 @@ class Master(models.Model):
     # 大师编号，用于排序
     sorting = models.IntegerField(verbose_name="大师编号",)
     # 头像
-    avatar = models.ImageField(upload_to='img')
+    avatar = models.CharField(verbose_name="大师头像", max_length=256)
     # 中文名
     chinese_name = models.CharField(max_length=256)
     # 本名
     actual_name = models.CharField(max_length=256)
-    field = models.ForeignKey("Field")
+    field = models.ForeignKey("Field", related_name='f')
     nationality = models.ForeignKey("Nationality")
     # 简介
     introduction = models.CharField(max_length=256)
@@ -43,3 +43,15 @@ class News(models.Model):
 class HotNews(models.Model):
     thumbnails = models.ImageField()
     new = models.ForeignKey('News')
+
+
+class Project(models.Model):
+    title = models.CharField(max_length=256)
+    thumbnails = models.ImageField()
+    content = models.CharField(max_length=10000)
+
+
+class Enterprise(models.Model):
+    title = models.CharField(max_length=256)
+    thumbnails = models.ImageField()
+    content = models.CharField(max_length=10000)

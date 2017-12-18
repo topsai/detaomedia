@@ -46,7 +46,8 @@ def login(request):
 
 @login_required
 def index(request):
-    return render(request, 'background/backend_index.html')
+    # return render(request, 'background/backend_index.html')
+    return render(request, 'background/vue.html')
 
 
 @login_required
@@ -62,9 +63,22 @@ def news(request):
 
 
 @login_required
+def enterprise(request):
+    return render(request, 'background/enterprise.html')
+
+
+@login_required
 def hotnews(request):
     data = models.HotNews.objects.all()
     path = 'background/include/hotnews.html'
+    # TODO 将增删改集中到一个页面
+    return render(request, 'background/hotnews.html', {'data': data, 'path': path})
+
+
+@login_required
+def project(request):
+    data = models.Project.objects.all()
+    path = 'background/include/project.html'
     # TODO 将增删改集中到一个页面
     return render(request, 'background/hotnews.html', {'data': data, 'path': path})
 
@@ -126,10 +140,12 @@ def base_info(request):
         return render(request, 'backend_base_info.html', {'obj': obj})
 
 
-@login_required
+# @login_required
 def upload_avatar(request):
     ret = {'status': False, 'data': None, 'message': None}
+    print(request)
     if request.method == 'POST':
+        print(request.FILES)
         file_obj = request.FILES.get('avatar_img')
         print(file_obj)
         if file_obj:
@@ -147,7 +163,28 @@ def upload_avatar(request):
             request.session['user_info']['avatar'] = '/' + file_path
     return HttpResponse(json.dumps(ret))
 
+def api_upload_avatar(request):
+    ret = {'status': False, 'data': None, 'message': None}
+    print(request)
+    if request.method == 'POST':
+        print(request.FILES)
+        file_obj = request.FILES.get('avatar_img')
+        print(file_obj)
+        if file_obj:
+            # print(os.path.splitext(f._name)[1])
+            # print(BASE_DIR)
+            # file_path = time.strftime('%Y-%m-%d-%H%M%S', time.localtime(time.time()))
 
+            # last_name = os.path.splitext(f._name)[1]
+            static_path = "static/testupfile/{}".format(file_obj.name)
+            path = os.path.join(BASE_DIR, static_path)
+            print(path)
+            with open(path, 'wb+') as destination:
+                for chunk in file_obj.chunks():
+                    destination.write(chunk)
+            print("file {} ok".format(path))
+            # return os.path.join('/', static_path)
+    return HttpResponse(os.path.join('/', static_path))
 @login_required
 def tag(request):
     blog_id = request.session.get('user_info').get('blog__nid')

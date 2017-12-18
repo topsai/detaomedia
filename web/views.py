@@ -2,6 +2,38 @@ from django.shortcuts import render, HttpResponse
 import subprocess
 from web import models
 
+from django.contrib.auth.models import User, Group
+from rest_framework import viewsets
+import serializers
+
+
+class EnterpriseViewSet(viewsets.ModelViewSet):
+    """
+    允许用户查看或编辑的API路径。
+    """
+    queryset = models.Enterprise.objects.all()
+    serializer_class = serializers.EnterpriseSerializer
+
+from rest_framework import permissions
+
+
+class MasterViewSet(viewsets.ModelViewSet):
+    queryset = models.Master.objects.all()
+    serializer_class = serializers.MasterSerializer
+    permission_classes = (permissions.AllowAny, )
+
+
+class FeildViewSet(viewsets.ModelViewSet):
+    queryset = models.Field.objects.all()
+    serializer_class = serializers.FeildSerializer
+    permission_classes = (permissions.AllowAny, )
+
+
+class NationalityViewSet(viewsets.ModelViewSet):
+    queryset = models.Nationality.objects.all()
+    serializer_class = serializers.NationalitySerializer
+    permission_classes = (permissions.AllowAny, )
+
 
 # Create your views here.
 def index(request):
@@ -17,7 +49,7 @@ import json
 
 def test(request):
     if request.method == "GET":
-        return render(request, 'test.html')
+        return render(request, 'testvue.html')
     else:
         print(request.POST)
         print(request.FILES)

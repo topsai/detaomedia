@@ -19,11 +19,13 @@ from background import views
 
 urlpatterns = [
     url(r'^index.html/$', views.index),
-    url(r'^field.html$', views.field),
-    url(r'^news.html$', views.news),
-    url(r'^hotnews.html$', views.hotnews),
-    url(r'^nationality.html$', views.nationality),
-    url(r'^index.html$', views.index),
+    url(r'^field.html/$', views.field),
+    url(r'^news.html/$', views.news),
+    url(r'^enterprise.html/$', views.enterprise),
+    url(r'^hotnews.html/$', views.hotnews),
+    url(r'^project.html/$', views.project),
+    url(r'^nationality.html/$', views.nationality),
+    url(r'^index.html/$', views.index),
     url(r'^base-info.html/$', views.base_info),
     url(r'^tag.html/$', views.tag),
     url(r'^category.html/$', views.category),
@@ -34,5 +36,6 @@ urlpatterns = [
     url(r'^add-hotnews.html/$', views.add_hotnews),
     url(r'^add-nationality.html/$', views.add_nationality),
     url(r'^edit-article-(?P<nid>\d+).html/$', views.edit_article),
-    url(r'^upload-avatar.html/$', views.upload_avatar),
+    url(r'^upload-avatar.html/$', views.handle_uploaded_file),
+    url(r'^api_upload_avatar/$', views.api_upload_avatar),
 ]
